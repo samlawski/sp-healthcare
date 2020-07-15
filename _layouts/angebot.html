@@ -1,0 +1,39 @@
+---
+layout: default
+---
+
+<main class="container">
+  <div class="row">
+    <div class="col-xs-12 col-lg-offset-1 col-lg-10">
+      <div class="page-content">
+        <header class="content-padding">
+          <h1>{{page.title}}</h1>
+        </header>
+        <section class="content-padding">
+          <a class="help-block" href="{{ "/" | prepend: site.baseurl }}"><span class="glyphicon glyphicon-menu-left" aria-hidden="true"></span> <span class="editable">Zurück zur Startseite</span></a><br />
+          <div class="main-content" data-cms-content-wrapper="/_layouts/angebot.html">{{content}}</div>
+        </section>
+
+        <footer class="content-padding">
+          <h3 class="editable">Hol- und Bringservice</h3>
+          <p class="editable">Wenn Sie unseren Service nutzen m&ouml;chten, k&ouml;nnen Sie entscheiden, ob die T&auml;tigkeit in Ihren R&auml;umen oder bei uns erfolgen soll.<br />Wird die Dienstleistung in unseren R&auml;umen durchgef&uuml;hrt, bieten wir Ihnen den Service an, Ihre Unterlagen abzuholen und bearbeitet direkt in Ihr B&uuml;ro zur&uuml;ckzubringen.</p>
+          <br />
+          <div class="help-block editable"><p>Weitere Angebote: Durch die Vertriebserfahrung der Unternehmensinhaberin ist es uns ebenfalls m&ouml;glich, Vertriebsstrukturen entsprechend Ihrem Firmenkonzept aufzubauen.</p></div>
+        </footer>
+
+        <div class="andere-angebote">
+          {% assign pages = site.pages | where:"layout","angebot" %}
+          {% for p in pages %}
+            {% unless p.title == page.title %}
+              <a href="{{p.url | prepend: site.baseurl}}" class="angebot content-padding" style="background-image: linear-gradient( rgba(0,0,0,.3), rgba(0,0,0,.3) ), url('{{p.header_image_path}}');">
+                <span class="hidden-xs hidden-sm">{{p.title}}</span>
+              </a><!-- / angebot -->
+            {% endunless %}
+          {% endfor %}
+        </div><!-- / andere-angebote  -->
+      </div><!-- / page-content -->
+    </div><!-- / col -->
+  </div><!-- / row -->
+</main>
+
+{% include kontakt.html %}

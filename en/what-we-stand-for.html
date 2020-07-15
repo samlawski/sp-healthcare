@@ -1,0 +1,53 @@
+---
+layout: angebot_en
+permalink: /en/what-we-stand-for/
+header_image_path: /assets/images/plant.jpg
+title: What we stand for
+vorteile:
+  - flexible
+  - exclusive
+  - transparent
+  - fast
+  - competent in all indications
+  - Rx or OTC
+---
+
+<h2 class="editable">We support you in the disctribution... What do you need?</h2>
+
+<div class="row">
+  <div class="col-sm-6">
+    <div class="editable">
+      <h3>Additional Sales Representatives</h3>
+      <ul>
+        <li>... supporting visits in cooperation with your sales force</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="col-sm-6">
+    <div class="editable">
+      <h3>Temporary external sales team</h3>
+      <ul>
+        <li>... promotion of the products</li>
+        <li>... market research and competitive environment analysis</li>
+      </ul>
+      
+    </div>
+  </div>
+</div>
+
+<h2 class="editable">Your benefits</h2>
+
+<div class="row">
+  <div class="col-sm-7">
+    <div class="vorteile">
+      {% for vorteil in page.vorteile %}
+        <div class="vorteil">{{vorteil}}</div>
+      {% endfor %}
+    </div>
+  </div>
+  <div class="col-sm-5">
+    <img src="/assets/images/competence.jpg" alt="Megaphon" class="img-responsive editable">
+  </div>
+</div>
+

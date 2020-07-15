@@ -1,0 +1,46 @@
+---
+layout: angebot
+permalink: /loesungen/
+header_image_path: /assets/images/solution.jpg
+title: Lösungen für Herausforderungen im Healthcare Business
+schlagworte:
+  - Neue Studien-Ergebnisse
+  - Saisonschwerpunkt
+  - Indikationsveränderung
+  - Aktionen
+  - Neuer Fokus
+  - Produktbesprechung
+  - Musterabgabe
+  - Neueinführung
+  - USP
+  - Abgabe von Werbematerial
+---
+
+<div class="editable">
+  <h2>Sie haben Herausforderungen?</h2>
+
+  <ul>
+    <li>Keinen oder zu kleinen Außendienst</li>
+    <li>Zu viele Produkte in der Besprechung</li>
+    <li>Einen temporären Personalengpass</li>
+    <li>Interne oder externe Strukturveränderungen</li>
+  </ul>
+
+  <p>... oder möchten Sie ein neues Projekt umsetzen?</p>
+  <p>Wir unterstützen Sie dabei!</p>
+</div>
+
+<h2>Wir geben Ihrer Botschaft ein Gesicht!</h2>
+
+<div class="row">
+  <div class="col-sm-6">
+    <div class="schlagworte">
+      {% for schlagwort in page.schlagworte %}
+        <div class="schlagwort">{{schlagwort}}</div>
+      {% endfor %}
+    </div>
+  </div>
+  <div class="col-sm-6">
+    <img src="/assets/images/megaphone.jpg" alt="Megaphon" class="img-responsive editable">
+  </div>
+</div>

@@ -1,0 +1,112 @@
+---
+title: Sales und Promotion für Healthcare
+description: Deutschlandweit personelle Unterstützung im Healthcare-Bereich.
+layout: frontpage
+header_image_path: /assets/images/title.jpg
+---
+
+<div id="angebote" class="container-fluid space-after">
+  <div class="row">
+    <div class="col-xs-12 visible-sm visible-xs">
+      <section class="angebot">
+        <div class="content">
+          <h2 class="editable">Angebote</h2>
+        </div>
+      </section><!-- / angebot -->
+    </div><!-- / col -->
+    <div class="col-xs-12 col-md-3">
+      <section class="angebot">
+        <a href="{{ "/fuer-wen" | prepend: site.baseurl }}">
+          <header class="content">
+            <h3 class="editable">Zielgruppen</h3>
+          </header>
+        </a>
+        <div class="content">
+          <p class="editable">Professionelle, personelle Unterstützung für verschiedenste medizinische Berufsgruppen.</p>
+          <a href="{{ "/fuer-wen" | prepend: site.baseurl }}" class="editable">Mehr erfahren...</a>
+        </div><!-- / content -->
+      </section><!-- / angebot -->
+    </div><!-- / col -->
+    <div class="col-xs-12 col-md-3">
+      <section class="angebot">
+        <a href="{{ "/loesungen" | prepend: site.baseurl }}">
+          <header class="content">
+            <h3 class="editable">Unsere Lösungen</h3>
+          </header>
+        </a>
+        <div class="content">
+          <p class="editable">Unterstützung bei den unterschiedlichsten Herausforderungen.</p>
+          <a href="{{ "/loesungen" | prepend: site.baseurl }}" class="editable">Mehr erfahren...</a>
+        </div><!-- / content -->
+      </section><!-- / angebot -->
+    </div><!-- / col -->
+    <div class="col-xs-12 col-md-3">
+      <section class="angebot">
+        <a href="{{ "/wofuer-wir-stehen" | prepend: site.baseurl }}">
+          <header class="content">
+            <h3 class="editable">Unsere Philosophie</h3>
+          </header>
+        </a>
+        <div class="content">
+          <p class="editable">Wofür wir stehen wird zu Ihrem Vorteil.</p>
+          <a href="{{ "/wofuer-wir-stehen" | prepend: site.baseurl }}" class="editable">Mehr erfahren...</a>
+        </div><!-- / content -->
+      </section><!-- / angebot -->
+    </div><!-- / col -->
+    <div class="col-xs-12 col-md-3">
+      <section class="angebot">
+        <a href="{{ "/projektablauf" | prepend: site.baseurl }}">
+          <header class="content">
+            <h3 class="editable">Projektablauf</h3>
+          </header>
+        </a>
+        <div class="content">
+          <p class="editable">
+            Wie läuft eine gemeinsame Zusammenarbeit konkret ab?
+          </p>
+          <a href="{{ "/projektablauf" | prepend: site.baseurl }}" class="editable">Mehr erfahren...</a>
+        </div><!-- / content -->
+      </section><!-- / angebot -->
+    </div><!-- / col -->
+  </div><!-- / row -->
+</div><!-- / container -->
+
+<div id="ueber" class="container">
+  <h1 class="editable">Über SP Healthcare Services</h1>
+
+  <div class="row">
+    <div class="col-sm-offset-1 col-sm-10 col-md-offset-2 col-md-8 col-lg-offset-3 col-lg-6 space-after">
+      <img class="img-responsive margin-center portrait editable" src="/assets/images/people-2.jpg" />
+    </div>
+  </div>
+  
+  <div class="row">
+    <div class="col-xs-12 space-after">
+        <div class="editable">
+          <p>Unser Team von inzwischen 3 Mitarbeitern im Innendienst und ca. 100 Mitarbeiter im bundesweiten Außendienst (Naturwissenschaftler, Pharmareferenten, PTAs) arbeitete bereits bei PEIX Sales Plus erfolgreich zusammen und wurde Ende 2019 in die Strukturen von S&P Healthcare Services aufgenommen.</p>
+          <p>Während der Innendienst die Projekte der Auftraggeber plant, besucht der Außendienst deutschlandweit oder auch in einzelnen Bundesländern die selektierten Ärzte/Kliniken/Apotheken. Ob Musterabgaben, Studien oder Marktforschungen … alles wird entsprechend der Vereinbarung durchgeführt und berichtet.</p>
+          <p>Der Außendienst arbeitet in Ausschließlichkeit, d.h. bespricht beim Arzt/Klinik lediglich das Produkt/die Produkte des Auftraggebers.</p>
+          <p>Der „Rundum-Service“ erstreckt sich von der Organisation der Produktschulung bis zum Abschlussbericht – wenn gewünscht auch mit detaillierter Projektanalyse.</p>
+        </div>
+        </div><!-- / col -->
+  </div><!-- row -->
+</div><!-- / container -->
+
+<div id="referenzen">
+  <div class="container">
+    <h2 class="editable">Referenzen</h2>
+
+    <div class="row">
+      <div class="col-sm-offset-2 col-sm-8">
+
+        <div class="referenzen-wrapper">
+          {% for firma in site.data.referenzen %}
+            <section class="referenz">
+              <span>{{firma.name}}</span>
+            </section>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div><!-- / container -->
+</div><!-- / netzwerk -->

@@ -1,0 +1,37 @@
+---
+layout: angebot_en
+permalink: /en/how-it-works/
+header_image_path: /assets/images/projektablauf.jpg
+title: How it works
+projekt_schritte: 
+  - Commisioning
+  - Project Planning by S&P
+  - HC-Representatives Training and Start of the Project
+  - Target Group Visits, Reporting
+projekt_zusaetze:
+  - Prescription
+  - Project Coordination / Reporting
+  - Calls / Feedback
+  - Selection of HCR Route Planning / Documentation
+---
+
+<h2 class="editable">Project process</h2>
+
+<div class="row">
+  <div class="col-sm-offset-2 col-sm-8">
+    <div class="projektschritte text-center">
+      {% for schritt in page.projekt_schritte %}
+        
+        <div class="projekt__schritt">{{forloop.index}}. {{schritt}}</div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
+<p class="text-center">+</p>
+
+<div class="text-center projektzusaetze">
+  {% for zusatz in page.projekt_zusaetze %}
+    <div class="projekt__zusatz">{{zusatz}}</div>
+  {% endfor %}
+</div>

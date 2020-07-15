@@ -1,0 +1,19 @@
+<div id="kontakt" class="container space-before">
+  <div class="row">
+    <div class="col-xs-12 col-md-8 col-md-offset-2">
+      <h2 class="editable">Nehmen Sie jetzt Kontakt auf!</h2>
+      <div class="text-center cta-box">
+        <div class="lead cta-call editable"><p>030 7974 7954</p></div>
+        <hr />
+        <small class="editable">oder per email:</small>
+        <br />
+        <form name="kontakt" method="post" action="/danke" netlify-honeypot="bot-field" netlify>
+          <input type="email" name="email" class="form-control" id="InputEmail" placeholder="Email-Adresse" required />
+          <input type="text" name="name" class="form-control" id="InputName" placeholder="Vor- und Nachname" required />
+          <textarea name="message" class="form-control" rows="4" id="InputNachricht" placeholder="Nachricht" required></textarea>
+          <button type="submit" class="btn btn-cta">Abschicken</button>
+        </form>
+      </div><!-- /cta-box -->
+    </div><!-- / col -->
+  </div><!-- row -->
+</div><!-- / container -->

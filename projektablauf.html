@@ -1,0 +1,37 @@
+---
+layout: angebot
+permalink: /projektablauf/
+header_image_path: /assets/images/projektablauf.jpg
+title: Wie läuft ein Projekt ab?
+projekt_schritte: 
+  - Beauftragung
+  - Projektplanung durch S&P
+  - HC-Referenten Training und Projektstart
+  - Zielgruppenbesuche, Reporting
+projekt_zusaetze:
+  - Verordnung
+  - Projektabstimmung/Reporting
+  - Besuche/Feedback
+  - Auswahl der HCR Tourenplanung/Dokumentation
+---
+
+<h2 class="editable">Projektablauf</h2>
+
+<div class="row">
+  <div class="col-sm-offset-2 col-sm-8">
+    <div class="projektschritte text-center">
+      {% for schritt in page.projekt_schritte %}
+        
+        <div class="projekt__schritt">{{forloop.index}}. {{schritt}}</div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
+<p class="text-center">+</p>
+
+<div class="text-center projektzusaetze">
+  {% for zusatz in page.projekt_zusaetze %}
+    <div class="projekt__zusatz">{{zusatz}}</div>
+  {% endfor %}
+</div>

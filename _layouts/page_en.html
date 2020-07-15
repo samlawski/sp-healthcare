@@ -1,0 +1,19 @@
+---
+layout: default_en
+---
+
+<main class="container">
+  <div class="row">
+    <div class="col-xs-12 col-lg-offset-1 col-lg-10">
+      <div class="page-content">
+        <header class="content-padding">
+          <h1>{{page.title}}</h1>
+        </header>
+        <section class="content-padding">
+          <a class="help-block" href="{{ "/en" | prepend: site.baseurl }}"><span class="glyphicon glyphicon-menu-left" aria-hidden="true"></span> <span class="editable">Back to homepage</span></a><br />
+          <div class="main-content">{{content}}</div>
+        </section>
+      </div><!-- / page-content -->
+    </div><!-- / col -->
+  </div><!-- / row -->
+</main>
