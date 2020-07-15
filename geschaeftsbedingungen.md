@@ -2,68 +2,130 @@
 layout: page
 permalink: /geschaeftsbedingungen/
 header_image_path: /assets/images/business-1.jpg
-title: Geschäftsbedingungen
+title: Allgemeine Geschäftsbedingungen
 ---
 
 
-# AGBs
+## 1. Geltungsbereich
 
-(Stand 08/2016)
+1.1 Diese Allgemeinen Geschäftsbedingungen („AGB“) gelten für die Nutzung der durch die S&P HEALTHCARE SERVICES, Cornelia Toussaint, Bismarckstraße 63, 12169 Berlin-Steglitz (nachfolgend: „S&P“ oder „Auftragnehmer“) angebotenen Dienstleistungen. Sie regeln das Zustandekommen des Vertrages zwischen den Unternehmen, die die angebotenen Leistungen in Anspruch nehmen („Auftraggeber“) und S&P, die Abwicklung von geschlossenen Verträgen und die wechselseitigen Rechte und Pflichten.
 
-**&sect; 1 Vertragsparteien**
+1.2 Für die Geschäftsbeziehung zwischen S&P und dem Auftraggeber gelten ausschließlich diese Allgemeinen Geschäftsbedingungen unter Einschluss der datenschutzrechtlichen Vorgaben sowie ergänzend die Regelungen in dem individuell zwischen S&P und dem Auftraggeber abgeschlossenen sog. „Einzelauftrag“, die im Zweifelsfall Vorrang zu diesen AGB haben. Abweichende Bedingungen des Auftraggebers erkennt S&P nicht an, es sei denn, S&P hat ihrer Geltung ausdrücklich schriftlich zugestimmt.
 
-Parteien dieses Vertrages sind der Kunde (nachfolgend “Auftraggeber”) und FiRe Service & Consulting, Bismarckstra&szlig;e 63, 12169 Berlin (nachfolgend “Auftragnehmer”). Sollte sich eine Partei bei der Durchf&uuml;hrung dieses Vertrages Dritter bedienen, so werden diese nicht Vertragspartner. Soweit nicht ausdr&uuml;cklich anderes bestimmt, entfaltet dieser Vertrag keine Schutzwirkung zugunsten Dritter. Die Leistungen des Auftragnehmers erfolgen ausschlie&szlig;lich auf Grundlage dieser Gesch&auml;ftsbedingungen. Diese gelten auch f&uuml;r alle k&uuml;nftigen Gesch&auml;ftsbeziehungen, auch wenn sie nicht nochmals ausdr&uuml;cklich vereinbart werden. Die zu &uuml;bernehmenden Leistungen werden in einem gesonderten Vertrag festgehalten.
+1.3 S&P kann diese Allgemeinen Geschäftsbedingungen jederzeit mit Wirkung für die Zukunft ändern. In einem solchen Fall wird S&P dem Auftraggeber die geänderten Bedingungen mitteilen und die Änderungen deutlich hervorheben. Wenn der Auftraggeber mit diesen Änderungen nicht einverstanden ist, kann er innerhalb von vier Wochen nach Zugang der Änderungsmitteilung widersprechen. Erfolgt in dieser Zeit kein Widerspruch, gelten die Änderungen als genehmigt. Im Falle des Widerspruchs gilt der Vertrag unverändert weiter, allerdings wird S&P ggf. von seinem ordentlichen Kündigungsrecht Gebrauch machen. S&P wird auf das Widerspruchsrecht, die Bedeutung des Verhaltens des Auftraggebers und auf die resultierenden Rechtsfolgen in der Mitteilung gesondert hinweisen.
 
-**&sect; 2 Verg&uuml;tung und F&auml;lligkeit**
+## 2. Allgemeine Leistungsbeschreibung
 
-Die Vertragsparteien vereinbaren f&uuml;r die gem&auml;&szlig; &sect; 1 dieses Vertrages zu erbringenden T&auml;tigkeiten ein stundenweises, monatliches oder nach Ende einer in Auftrag gegebenen Dienstleistung f&auml;lliges Honorar. Alle Rechnungen sind 14 Tage nach Erhalt der Rechnung per &Uuml;berweisung auf das vom Auftragnehmer angegebene Firmenkonto f&auml;llig.
+2.1. S&P bietet Auftraggebern unter anderem im Bereich Pharmazie die Ansprache von niedergelassenen Ärzten sowie Ärzten in Kliniken („Ärzte“) und/oder Apothekern durch Health Care Referenten („HCR“) an. S&P organisiert die Besuche der HCR auf Basis der vom Auftraggeber zur Verfügung gestellten Adressdaten und informiert den Auftraggeber im beauftragten Umfang über die durchgeführten Gespräche. Die Fachinformationsmaterialien für die Besuche durch die HCR sowie die gegebenenfalls abzugebenden unverkäuflichen Muster („Muster“) stellt der Auftraggeber S&P kostenfrei zur Verfügung.
 
-**&sect; 3 Pflichten des Auftraggebers**
+2.2. S&P darf vom Auftraggeber übertragene Tätigkeiten nicht ohne vorherige Zustimmung von Dritten durchführen lassen. Dritte in vorstehendem Sinne sind nicht die HCR. Dem Auftraggeber ist bekannt und er ist damit einverstanden, dass die HCR freiberuflich tätig sind und sich in keinem Anstellungsverhältnis mit S&P befinden.
 
-(1) Der Auftraggeber hat dem Auftragnehmer alle ihm zur Erf&uuml;llung seiner Aufgaben nach diesem Vertrag notwendigen Unterlagen vollst&auml;ndig und so rechtzeitig zu &uuml;bergeben, dass dem Auftragnehmer eine angemessene Bearbeitungszeit verbleibt. Dies gilt entsprechend f&uuml;r die Information &uuml;ber alle Vorg&auml;nge und Umst&auml;nde, die f&uuml;r die Durchf&uuml;hrung des Auftrages nach diesem Vertrag von Relevanz sein k&ouml;nnen. Datentr&auml;ger, die der Auftraggeber zur Verf&uuml;gung stellt, m&uuml;ssen inhaltlich und technisch einwandfrei sein. Ist dies nicht der Fall, so hat der Auftraggeber dem Auftragnehmer alle aus der Benutzung dieser Datentr&auml;ger entstandenen Sch&auml;den &nbsp;zu ersetzen.
+## 3. Preise, Zahlung
 
-(2) Der Auftraggeber hat alle ihm vom Auftragnehmer &uuml;bermittelten Schreiben zur und zu beachten bzw. zu beantworten. Arbeitsergebnisse hat er auf ihre Vollst&auml;ndigkeit und Richtigkeit hin zu &uuml;berpr&uuml;fen und Einwendungen dagegen dem Auftragnehmer unverz&uuml;glich mitzuteilen.
+3.1. Die Preise für die Leistungen von S&P richten sich nach dem vom Auftraggeber gewünschten Umfang. Die Leistungen werden zwischen den Parteien individuell vereinbart und in einer separaten Vereinbarung festgehalten (Einzelauftrag, näheres siehe unter Ziffer 4.).
 
-**&sect; 4 Pflichten des Auftragnehmers**
+3.2. Die insgesamt zu entrichtenden Zahlungen für die vereinbarten Leistungen sind wie folgt nach Rechnungstellung fällig: 1/3 vor Projektbeginn – 1/3 nach der halben Projektlaufzeit – 1/3 zum Projektende. Rechnungen werden von S&P jeweils zuzüglich Umsatzsteuer gestellt.
 
-(1) Der Auftragnehmer hat die ihm &uuml;bertragenen Aufgaben nach den Grunds&auml;tzen ordnungsgem&auml;&szlig;er Buchf&uuml;hrung zu erf&uuml;llen.
+3.3. Kosten im Zusammenhang mit der Teilnahme der HCR an den Informationsveranstaltungen („Train the Trainer“ o.ä.) trägt der Auftraggeber.
 
-(2) Der Auftragnehmer hat insbesondere &uuml;ber alle Tatsachen, die ihm mit der Ausf&uuml;hrung der Aufgaben nach diesem Vertrag zur Kenntnis gelangt sind, Verschwiegenheit zu bewahren, sofern und soweit er nicht vom Auftraggeber hiervon schriftlich entbunden worden ist. Diese Pflicht besteht auch nach Vertragsbeendigung fort. Die Pflicht zur Verschwiegenheit besteht jedoch nicht, sofern eine Offenbarung zur Wahrnehmung eigener Interessen des Auftragnehmers erforderlich ist.
+## 4. Vertragsschluss, Einzelauftrag, Vertragsdauer, Kündigung
 
-(3) Der Auftragnehmer hat seine Aufgaben auf der Grundlage der ihm vom Auftraggeber &uuml;bergebenen Unterlagen und Informationen auszu&uuml;ben. Er wird dabei von deren Richtigkeit und Vollst&auml;ndigkeit ausgehen. Sofern und soweit er Unrichtigkeit oder Unvollst&auml;ndigkeiten feststellt, wird er den Auftraggeber darauf hinweisen.
+4.1. Den genauen Umfang der gewünschten Dienstleistung und deren Kosten sowie der Vertragsdauer legen S&P und der Auftraggeber in einem Einzelauftrag fest. Im Einzelauftrag werden auch die jeweiligen Ansprechpartner des Auftraggebers und S&P für pharmazeutisch- technische Fragen festgehalten.
 
-**&sect; 5 M&auml;ngelbeseitigung**
+4.2. Mit Unterzeichnung des Einzelauftrags beginnt die Vertragsbeziehung zwischen S&P und dem Auftraggeber, für die diese Allgemeinen Geschäftsbedingungen gelten.
 
-(1) Der Auftraggeber hat Anspruch auf Beseitigung etwaiger M&auml;ngel. Dem Auftragnehmer ist Gelegenheit zur Nachbesserung zu geben. Beseitigt der Auftragnehmer die geltend gemachten M&auml;ngel nicht innerhalb einer angemessenen Frist, oder lehnt er die M&auml;ngelbeseitigung ab, so kann der Auftraggeber auf Kosten des Auftragnehmers die M&auml;ngel durch einen Dritten beseitigen lassen, bzw. nach seiner Wahl eine angemessene Herabsetzung der Verg&uuml;tung verlangen.
+4.3. Der Beginn und die Dauer der beauftragten Leistung richtet sich nach den Vereinbarungen in dem jeweiligen Einzelauftrag.
 
-(2) Offenbare Unrichtigkeiten (z.B. Schreib-. Rechen- oder &Uuml;bertragungsfehler) k&ouml;nnen vom Auftragnehmer jederzeit, auch Dritten gegen&uuml;ber und ohne Kenntnis des Auftraggebers, berichtigt werden. Sonstige M&auml;ngel darf der Auftragnehmer Dritten gegen&uuml;ber mit Einwilligung des Auftraggebers berichtigen. Die Einwilligung ist nicht erforderlich, wenn berechtigte Interessen des Auftragnehmers den Interessen des Auftraggebers vorgehen.
+4.4. Die Dauer des Vertrages richtet sich grundsätzlich nach der vom Auftraggeber gewählten und in dem Einzelauftrag festgehaltenen Laufzeit der gebuchten Dienstleistung, ergänzt um gegebenenfalls nach Ende der Laufzeit von den Parteien noch zu erfüllenden Vertragspflichten.
 
-**&sect; 6 Haftung**
+4.5. Die Vereinbarung endet spätestens mit der erfolgten Übermittlung sämtlicher Informationen an den Auftraggeber beziehungsweise mit der letzten Zahlung an S&P, je nach dem welches das spätere Ereignis ist.
 
-Die Haftung des Auftragnehmers f&uuml;r Sch&auml;den, die durch seine Person verursacht werden, abgesehen von der Herbeif&uuml;hrung des Schadens infolge grober Fahrl&auml;ssigkeit und Vorsatz, ist der H&ouml;he nach begrenzt auf den Wert eines durchschnittlichen dreifachen Monatsrechnungsbetrages f&uuml;r einen vollst&auml;ndigen Auswertungsmonat ohne Umsatzsteuer. Jede weitergehende Haftung des Auftragnehmers, insbesondere f&uuml;r Folgesch&auml;den, ist ausgeschlossen. Der Schadensersatzanspruch des Auftraggebers verj&auml;hrt nach zwei Jahren von dem Zeitpunkt an, in dem der Anspruch entstanden ist.
+4.6. S&P steht ein ordentliches Kündigungsrecht mit einer Frist von 4 (vier) Wochen zum Monatsende zu für den Fall, dass der Auftraggeber nach Zugang der Änderungsmitteilung gem. Ziffer 1.3. innerhalb von vier Wochen widersprochen hat, im Übrigen ist eine ordentliche Kündigung der Parteien ausgeschlossen.
 
-**&sect; 7 Aufbewahrungspflicht**
+4.7. Das gesetzliche Recht zur Kündigung dieser Vereinbarung aus wichtigem Grund mit einer kürzeren oder sogar ohne Frist bleibt unberührt. Wichtige Gründe sind beispielhaft, ohne darauf beschränkt zu sein:
 
-(1) Der Auftragnehmer hat Handakten f&uuml;r die Dauer von sieben Jahren nach Beendigung des Auftrages aufzubewahren. Diese Verpflichtung erlischt jedoch schon vor Ablauf des Zeitraumes, wenn der Auftragnehmer den Auftraggeber schriftlich aufgefordert hat, diese Akten in Empfang zu nehmen und der Auftraggeber dieser Aufforderung binnen 6 Monaten, nachdem er die Aufforderung erhalten hat, nicht nachgekommen ist.
+4.7.1. Wenn der Auftraggeber mit der Zahlung von fälligen Gebühren im Rückstand ist;
 
-(2) Zu den Handakten in diesem Sinne geh&ouml;ren alle Schriftst&uuml;cke, die der Auftragnehmer aus Anlass des Auftrages vom Auftraggeber oder f&uuml;r ihn erhalten hat. Dies gilt jedoch nicht f&uuml;r den Briefwechsel zwischen dem Auftragnehmer und dem Auftraggeber und f&uuml;r Schriftst&uuml;cke, die der Auftragnehmer bereits in Urschrift oder Abschrift erhalten hat, sowie f&uuml;r die zu internen Zwecken gefertigten Arbeitspapiere.
+4.7.2. Wenn die oder eine der Parteien schuldhaft gegen anwendbares Recht oder diese Allgemeinen Geschäftsbedingungen verstoßen, insbesondere bei Verstößen gegen den Datenschutz sowie gegen ausdrücklich geregelte Pflichten;
 
-(3) Auf Anforderung des Auftraggebers, sp&auml;testens nach Beendigung des Auftrages, hat der Auftragnehmer dem Auftraggeber die Handakten innerhalb einer angemessenen Frist herauszugeben. Der Auftragnehmer kann von Unterlagen, die er an den Auftraggeber zur&uuml;ckgibt, Abschriften oder Fotokopien anfertigen und zur&uuml;ckbehalten.
+4.8. Die Kündigung muss schriftlich erfolgen (E-Mail genügt).
 
-(4) Die Aufbewahrungspflicht des Auftragnehmers f&uuml;r Datentr&auml;ger, Listen und Speicherinhalte endet einen Monat nach Aush&auml;ndigung der jeweiligen gedruckten monatlichen Auswertungen oder einen Monat nach Beendigung dieses Vertrages.
+4.9. Folgen der Kündigung:
 
-**&sect; 8 Herausgabe und Zur&uuml;ckbehaltungsrecht von Arbeitsergebnissen und Unterlagen**
+4.9.1. Ab der Wirksamkeit der Kündigung sind beide Parteien zur Erbringung der vertraglichen Leistungen nicht mehr verpflichtet, es sei denn, dies ist ausdrücklich abweichend geregelt oder ergibt sich aus der Natur der Leistung oder der Vereinbarung.
 
-Der Auftragnehmer kann die Herausgabe seiner Arbeitsergebnisse und der Handakten verweigern, bis er wegen seiner Geb&uuml;hren und Auslagen befriedigt ist. Dieses gilt nicht, soweit die Zur&uuml;ckbehaltung aufgrund der Umst&auml;nde, insbesondere wegen Unverh&auml;ltnism&auml;&szlig;igkeit, gegen Treu und Glauben versto&szlig;en w&uuml;rde. Bis zur Beseitigung rechtzeitig geltend gemachter M&auml;ngel ist der Auftraggeber zur Zur&uuml;ckbehaltung eines angemessenen Teils des Honorars berechtigt.
+4.9.2. Etwaige zum Zeitpunkt der Wirksamkeit der Kündigung von S&P bereits erbrachte und noch nicht vergütete Leistungen sind vom Auftraggeber entsprechend zu vergüten.
 
-**&sect; 9 Vertragsdauer und Vertrags&auml;nderungen**
+4.9.3. Bis dahin gesammelte und dem Auftraggeber noch nicht zur Verfügung gestellte Informationen über die Besuche bei den Ärzten/Apothekern übermittelt S&P innerhalb von 6 (sechs) Wochen an den Auftraggeber, zusammen mit zu dem Zeitpunkt noch bei S&P vorhandenen Informationsunterlagen und Mustern, Ziffern 6.6. und 6.9. gelten entsprechend.
 
-Die Dauer des Vertragsverh&auml;ltnisses wird individuell vereinbart. M&uuml;ndliche oder schriftliche Nebenabreden zu diesem Vertrag bestehen nicht. &Auml;nderungen und Erg&auml;nzungen dieses Vertrages bed&uuml;rfen zu ihrer Wirksamkeit der Schriftform. Dies gilt auch f&uuml;r die &Auml;nderung der vorstehenden Schriftformklausel.
+4.10. Beiden Parteien ist bekannt, dass die Möglichkeit besteht, dass der Auftraggeber während der Laufzeit des Vertrages in Absprache mit der jeweils für das Arzneimittel zuständigen Bundesoberbehörde (BfArM oder Paul-Ehrlich-Institut) einen „Rote-Hand-Brief“ betreffend ein oder mehrerer im Einzelauftrag vorgesehener Produkte versendet und/oder veröffentlicht u.ä. Der Auftraggeber ist verpflichtet, S&P unverzüglich von dem „Rote-Hand-Brief“ in Kenntnis zu setzen. Wenn es sich dabei um die Mitteilung bislang unbekannter und/oder schwerer Nebenwirkungen handelt, so soll S&P die Leistungen für das entsprechende Produkt unverzüglich nach Kenntniserlangung einstellen; umfasst die Vereinbarung weitere, nicht von dem „Rote-Hand-Brief“ betroffene Produkte, so gilt die Vereinbarung dahin gehend unverändert weiter. S&P steht in dem Fall die vollständige Zahlung für die gesamte im Einzelauftrag vorgesehene Leistung betreffend das/die entsprechenden Produkte zu, ohne dass der Auftraggeber einen Anspruch auf die Erbringung der dafür vorgesehenen Gegenleistung durch S&P hat.
 
-**&sect; 10 Nichtigkeitsklausel**
+## 5. Rechteeinräumung
 
-Sofern Teile oder einzelne Formulierungen dieses Textes der geltenden Rechtslage nicht, nicht mehr oder nicht vollst&auml;ndig entsprechen sollten, bleiben die &uuml;brigen Teile des Dokuments in ihrem Inhalt und ihrer G&uuml;ltigkeit davon unber&uuml;hrt.
+S&P räumt dem Auftraggeber das einfache, übertragbare, zeitlich unbefristete und räumlich uneingeschränkte Nutzungsrecht an den Ergebnissen seiner Tätigkeit im Rahmen dieser Vereinbarung ein. Die Einräumung ist von der vereinbarten Vergütung abgedeckt, ein gesonderter Vergütungsanspruch steht S&P nicht zu.
 
-**&sect; 11 Schlussbestimmungen**
+## 6. Pflichten von S&P
 
-Diese AGB unterliegen deutschem Recht. Als Gerichtsstand gilt der Sitz des Auftragnehmers. Sollte eine Bestimmung dieses Vertrages ganz oder teilweise unwirksam sein oder werden, oder sollte sich in diesem Vertrag eine L&uuml;cke befinden, soll hierdurch die G&uuml;ltigkeit der &uuml;brigen Bestimmungen nicht ber&uuml;hrt werden. Anstelle der unwirksamen Bestimmung verpflichten sich die Vertragsparteien schon jetzt, eine wirksame zu vereinbaren, die dem Sinn und Zweck der unwirksamen Bestimmung m&ouml;glichst nahe kommt. Im Falle einer L&uuml;cke gilt diejenige Bestimmung als vereinbart, die dem entspricht, was nach dem Sinn und Zweck dieses Vertrages vereinbart worden w&auml;re, h&auml;tte man die L&uuml;cke im Vorhinein erkannt.
+6.1. S&P beauftragt zur Durchführung der Dienstleistung nur HCR, die die notwendige Sachkenntnis gem. § 75 Abs. 2 AMG nachgewiesen haben.
+
+6.2. S&P verpflichtet die HCR, die Vorgaben des § 76 AMG einzuhalten, und dabei insbesondere die Vorgaben des § 47 Abs. 3, Abs. 4 AMG zu beachten.
+
+6.3. S&P stellt sicher, dass die vertraglich zwischen S&P und dem Auftraggeber vereinbarten Regelungen auch im Verhältnis zwischen S&P und den HCR gelten, soweit anwendbar; dabei ist es S&P bekannt, dass die angebotene Dienstleistung einschließlich der vertraglichen Vereinbarungen darüber der Kontrolle durch die für den Auftraggeber zuständigen Aufsichtsbehörde unterliegt.
+
+6.4. S&P verpflichtet die HCR, die von dem Auftraggeber zur Verfügung gestellten Muster kühl und trocken unter einwandfreien hygienischen Bedingungen in vor dem Zugriff durch Dritte geschützten abschließbaren Räumen zu lagern. Als Vorgabe für die Lagerung gilt ein Temperaturrahmen von 15° -25° Celsius, dabei gelten Unterschreitungen bis 8° und Überschreitungen bis 27°als akzeptabel.
+
+6.5. S&P verpflichtet die HCR, nur jeweils einen maximalen Tagesbedarf an Mustern im Auto mitzunehmen und diese in angemessenen Kühlboxen zu lagern sowie dafür Sorge zu tragen, dass etwaige am Ende eines Besuchstages nicht abgegebene Muster zurück in die für die Lagerung vorgesehenen Räume verbracht werden.
+
+6.6. Am Ende der Vertragslaufzeit nicht abgegebene Muster sowie nicht abgabefähige Muster (z.B. wegen Beschädigung) werden von S&P dokumentiert und an den Auftraggeber zurückgeschickt.
+
+6.7. S&P verpflichtet die HCR vertraglich, keine Arzneimittel zum Eigenverbrauch oder zur Weitergabe an Dritte außer den zu besuchenden Ärzten/Apothekern zu entnehmen.
+
+6.8. S&P übermittelt per E-Mail in dem vom Auftraggeber per Einzelauftrag beauftragten Zeitrhythmus und Umfang Informationen zu den von den HCR besuchten Ärzten/Apothekern an eine vom Auftraggeber benannten E-Mail-Adresse.
+
+6.9. S&P übermittelt spätestens 4 (vier) Wochen nach Ende der im Einzelauftrag angegebenen Vertragslaufzeit eine Gesamtübersicht mit allen Ergebnissen an den Auftraggeber, per E-Mail oder USB-Stick.
+
+6.10. Ferner bestätigt S&P dem Auftraggeber insbesondere, dass
+
+a) die ihm überlassenen Daten ausschließlich zur Erbringung der vertraglich vereinbarten Leistungen erhoben, verarbeitet oder genutzt werden,
+
+b) die bei S&P für die Erbringung der vereinbarten Leistungen eingesetzten Verfahren einer regelmäßigen Kontrolle unterliegen.
+
+## 7. Pflichten des Auftraggebers
+
+7.1. Der Auftraggeber sichert zu, dass es Zulassungsinhaber der von S&P gemäß Einzelauftrag vorzustellenden Produkte ist.
+
+7.2. Der Auftraggeber stellt S&P bzw. nach konkreter Absprache mit S&P den HCR direkt die vereinbarte Menge an Fachinformationsmaterialien sowie an Mustern mit entsprechendem Lieferschein zur Verfügung.
+
+7.3. Musterformulare für die Dokumentation der Abgabe werden durch den Auftraggeber zur Verfügung gestellt.
+
+7.4. Der Auftraggeber sichert zu, dass die an S&P übermittelten Informationen und Materialien dem neuesten Informationsstand entsprechen und die Muster mindestens über eine für die vereinbarte Laufzeit ausreichende Restlaufzeit für die Abgabe verfügen. Werden dem Auftraggeber während der Vertragslaufzeit Informationen bekannt, die einen Einfluss auf die von S&P an die Ärzte/Apotheker zu übermittelnden Informationen haben, so ist der Auftraggeber dafür verantwortlich, dies S&P unverzüglich mitzuteilen und gegebenenfalls geänderte Informationsmaterialien zur Verfügung zu stellen; etwaige Kosten trägt ausschließlich der Auftraggeber. Entsprechendes gilt für Muster. Sollten dadurch erneute Besuche bei bereits besuchten Ärzten/Apothekern notwendig werden, so ist dies vom Auftraggeber separat zu vergüten, die Einzelheiten regeln S&P und der Auftraggeber in einer separaten schriftlichen Vereinbarung.
+
+7.5. Der Auftraggeber ist verpflichtet, S&P unverzüglich schriftlich (E-Mail oder Fax genügen) zu informieren, sobald er von der für das Arzneimittel zuständigen Bundesoberbehörde (BfArM oder Paul-Ehrlich-Institut) informiert wurde, dass wegen eines Produktes, das von S&P im Rahmen dieser Vereinbarung zu betreuen ist, ein Rote-Hand-Brief wegen bislang unbekannter und/oder schwerer Nebenwirkungen verschickt werden wird (vgl. Ziffer 4.10.).
+
+7.6. Die vom Auftraggeber an S&P übermittelten Daten, insbesondere die Kontaktdaten der Ärzte/Apotheker, sind ausreichend gesichert.
+
+7.7. Der Auftraggeber ist mit den Anforderungen der Datenschutz-Grundverordnung (DS-GVO) und des Bundesdatenschutzgesetzes (BDSG) vertraut und wird eine datenschutzkonforme Verarbeitung aller von S&P übermittelten Daten fortlaufend sicherstellen und hierzu die innerbetriebliche Organisation so gestalten, dass diese den besonderen Anforderungen des Datenschutzes gerecht wird und insbesondere die in Artikel 32 EU DS-GVO aufgeführten Maßnahmen umgesetzt werden.
+
+7.8. Etwaige Änderungen des Ansprechpartners für pharmazeutisch-technische Fragen teilt der Auftraggeber S&P unverzüglich schriftlich mit (E-Mail genügt).
+
+## 8. Haftung, Freistellung
+
+8.1. S&P organisiert im Auftrag des Auftraggebers Besuche von HCR bei Ärzten/Apothekern im vom Auftraggeber gewünschten Umfang und berichtet über die Ergebnisse gemäß Einzelauftrag. Sofern der Auftraggeber und Ärzte/Apotheker Vereinbarungen miteinander treffen oder Verträge schließen, so ist S&P daran nicht beteiligt und haftet auch nicht für ein Zustandekommen oder den Inhalt derartiger Vereinbarungen und Verträge.
+
+8.2. Ausschließlich der Auftraggeber ist dafür verantwortlich, dass die S&P für die Besuche der HCR bei Ärzten/Apothekern von ihm zur Verfügung gestellten Informationen richtig und vollständig sind und die Muster über eine für die vereinbarte Laufzeit ausreichende Restlaufzeit für die Abgabe verfügen.
+
+8.3. Der Auftraggeber stellt S&P von sämtlichen Ansprüchen von Ärzten/Apothekern oder anderen Dritten frei, die diese im Zusammenhang mit den übermittelten Informationen, die S&P oder gegebenenfalls die HCR direkt vom Auftraggeber im Rahmen der Beauftragung erhalten hat (davon umfasst sind Muster, Informationen zu Produkten und die Adressdaten der Ärzte/Apotheker), gegen S&P oder die HCR geltend machen, eingeschlossen ist die Freistellung von anwaltlichen sowie gerichtlichen Kosten von S&P im Zusammenhang mit der Abwehr derartiger Ansprüche. Vorstehende Freistellung gilt auch für Ansprüche Dritter gegen S&P oder die HCR wegen schuldhaften Verstößen gegen gesetzliche Bestimmungen durch die Verwendung der vom Auftraggeber zur Verfügung gestellten Informationen und/oder Muster. Alle weitergehenden Rechte sowie Schadensersatzansprüche des Auftraggebers bleiben unberührt.
+
+## 9. Geheimhaltung
+
+Die Parteien verpflichten sich wechselseitig, den Inhalt dieser Vereinbarung vertraulich zu behandeln und Dritten, ausgenommen Steuerbehörden oder zur Berufsverschwiegenheit verpflichten Berufsangehörigen, nicht zu offenbaren. Die Parteien verpflichten sich zudem wechselseitig, gegenüber Dritten Stillschweigen über alle ihr bekannten Geschäfts- und Betriebsgeheimnisse zu bewahren. Als Dritte im Sinne dieser Vereinbarung gelten nicht Mitarbeiter der Parteien. Diese Geheimhaltungspflichten gelten nicht, soweit die offenbarende Partei aus gesetzlichen Gründen zur Offenbarung verpflichtet ist, oder die Offenbarung zur Erfüllung der vereinbarten Pflichten erforderlich ist. Die vorstehende Verpflichtung gilt über eine etwaige Beendigung dieser Vereinbarung hinaus.
+
+## 10. Schlussbestimmungen
+
+10.1. Nachträgliche Änderungen und Ergänzungen von Einzelaufträgen können nur in gegenseitigem Einvernehmen vorgenommen werden und bedürfen der Schriftform.
+
+10.2. Im Geschäftsverkehr mit Kaufleuten, juristischen Personen des öffentlichen Rechts oder bei öffentlich-rechtlichen Sondervermögen gilt als Erfüllungsort und Gerichtsstand Berlin, wenn nicht etwas anderes vereinbart wurde.
+
+10.3. Es gilt das Recht der Bundesrepublik Deutschland.
+
+_Stand: Januar 2020_
