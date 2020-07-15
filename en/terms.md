@@ -5,65 +5,126 @@ header_image_path: /assets/images/business-1.jpg
 title: Terms of Service
 ---
 
+## 1. Geltungsbereich
 
-**Terms and Conditions**
+1.1 Diese Allgemeinen Geschäftsbedingungen („AGB“) gelten für die Nutzung der durch die S&P HEALTHCARE SERVICES, Cornelia Toussaint, Bismarckstraße 63, 12169 Berlin-Steglitz (nachfolgend: „S&P“ oder „Auftragnehmer“) angebotenen Dienstleistungen. Sie regeln das Zustandekommen des Vertrages zwischen den Unternehmen, die die angebotenen Leistungen in Anspruch nehmen („Auftraggeber“) und S&P, die Abwicklung von geschlossenen Verträgen und die wechselseitigen Rechte und Pflichten.
 
-(Last updated August 2016)
+1.2 Für die Geschäftsbeziehung zwischen S&P und dem Auftraggeber gelten ausschließlich diese Allgemeinen Geschäftsbedingungen unter Einschluss der datenschutzrechtlichen Vorgaben sowie ergänzend die Regelungen in dem individuell zwischen S&P und dem Auftraggeber abgeschlossenen sog. „Einzelauftrag“, die im Zweifelsfall Vorrang zu diesen AGB haben. Abweichende Bedingungen des Auftraggebers erkennt S&P nicht an, es sei denn, S&P hat ihrer Geltung ausdrücklich schriftlich zugestimmt.
 
-**&sect; 1 The contracting parties**
+1.3 S&P kann diese Allgemeinen Geschäftsbedingungen jederzeit mit Wirkung für die Zukunft ändern. In einem solchen Fall wird S&P dem Auftraggeber die geänderten Bedingungen mitteilen und die Änderungen deutlich hervorheben. Wenn der Auftraggeber mit diesen Änderungen nicht einverstanden ist, kann er innerhalb von vier Wochen nach Zugang der Änderungsmitteilung widersprechen. Erfolgt in dieser Zeit kein Widerspruch, gelten die Änderungen als genehmigt. Im Falle des Widerspruchs gilt der Vertrag unverändert weiter, allerdings wird S&P ggf. von seinem ordentlichen Kündigungsrecht Gebrauch machen. S&P wird auf das Widerspruchsrecht, die Bedeutung des Verhaltens des Auftraggebers und auf die resultierenden Rechtsfolgen in der Mitteilung gesondert hinweisen.
 
-The parties to this agreement are the customer (subsequently referred to as the “Client”) and *FiRe Service & Consulting,* Bismarckstra&szlig;e 63, 12169 Berlin (subsequently referred to as the “Contractor”). Should one of the parties use the services of a third party in the execution of this contract, this third party does not become a party to this contract. Unless an express agreement to the contrary has been concluded, this agreement does not confer any protection to third parties. The services provided by the Contractor are performed exclusively on the basis of these terms and conditions. This applies to all future business relations, even if they have not been subject to repeated express agreement. The services to be performed are set out in a separate agreement.
+## 2. Allgemeine Leistungsbeschreibung
 
-**&sect; 2 Remuneration and due date**
+2.1. S&P bietet Auftraggebern unter anderem im Bereich Pharmazie die Ansprache von niedergelassenen Ärzten sowie Ärzten in Kliniken („Ärzte“) und/oder Apothekern durch Health Care Referenten („HCR“) an. S&P organisiert die Besuche der HCR auf Basis der vom Auftraggeber zur Verfügung gestellten Adressdaten und informiert den Auftraggeber im beauftragten Umfang über die durchgeführten Gespräche. Die Fachinformationsmaterialien für die Besuche durch die HCR sowie die gegebenenfalls abzugebenden unverkäuflichen Muster („Muster“) stellt der Auftraggeber S&P kostenfrei zur Verfügung.
 
-The parties to the contract agree to the payment of an hourly, monthly or final payment due after the end of the contracted services in return for the activities performed in accordance with the provisions of &sect; 1 of this agreement. All invoices are payable to the company account specified on the invoice 14 days after its receipt.
+2.2. S&P darf vom Auftraggeber übertragene Tätigkeiten nicht ohne vorherige Zustimmung von Dritten durchführen lassen. Dritte in vorstehendem Sinne sind nicht die HCR. Dem Auftraggeber ist bekannt und er ist damit einverstanden, dass die HCR freiberuflich tätig sind und sich in keinem Anstellungsverhältnis mit S&P befinden.
 
-**&sect; 3 The obligations of the Client**
+## 3. Preise, Zahlung
 
-(1) The Client is to make available to the Contractor all documents required to perform the contracted tasks at a time which permits him an appropriate processing time. This applies to the information pertaining to procedures and circumstances which could be relevant for the performance of the task in accordance with this agreement. Data carriers and their content which the Client makes available to the Contractor must be in an unassailable technical condition. Should this prove otherwise, the Client is obliged to pay compensation for all damage incurred by the Contractor through the use of the data carrier.
+3.1. Die Preise für die Leistungen von S&P richten sich nach dem vom Auftraggeber gewünschten Umfang. Die Leistungen werden zwischen den Parteien individuell vereinbart und in einer separaten Vereinbarung festgehalten (Einzelauftrag, näheres siehe unter Ziffer 4.).
 
-(2) The Contractor is to note all the correspondence received from the Client and comply with their specifications / answer them. The Client is to check all outcomes for their completeness and correct nature and to inform the Contractor of any objections without delay.
+3.2. Die insgesamt zu entrichtenden Zahlungen für die vereinbarten Leistungen sind wie folgt nach Rechnungstellung fällig: 1/3 vor Projektbeginn – 1/3 nach der halben Projektlaufzeit – 1/3 zum Projektende. Rechnungen werden von S&P jeweils zuzüglich Umsatzsteuer gestellt.
 
-**&sect; 4 The obligations of the Contractor**
+3.3. Kosten im Zusammenhang mit der Teilnahme der HCR an den Informationsveranstaltungen („Train the Trainer“ o.ä.) trägt der Auftraggeber.
 
-(1) The Contractor is to perform all the tasks with which he has been instructed in accordance with the principles of sound accounting.
+## 4. Vertragsschluss, Einzelauftrag, Vertragsdauer, Kündigung
 
-(2) The Contractor is required to maintain strict confidentiality regarding all information provided to him for the purpose of the tasks regulated by this agreement, unless he is provided with written release from this requirement. This obligation shall also remain in force following the termination of this contract. The duty of confidentiality does not exist to the extent that disclosure is required to preserve the interest of the Contractor.
+4.1. Den genauen Umfang der gewünschten Dienstleistung und deren Kosten sowie der Vertragsdauer legen S&P und der Auftraggeber in einem Einzelauftrag fest. Im Einzelauftrag werden auch die jeweiligen Ansprechpartner des Auftraggebers und S&P für pharmazeutisch- technische Fragen festgehalten.
 
-(3) The Contractor is to execute the tasks on the basis of the documents and information provided by the Client. In so doing, he will proceed from the assumption of the correctness and completeness of the information contained in this documentation. He is to inform the Client of any errors or omissions which this documentation contains.
+4.2. Mit Unterzeichnung des Einzelauftrags beginnt die Vertragsbeziehung zwischen S&P und dem Auftraggeber, für die diese Allgemeinen Geschäftsbedingungen gelten.
 
-**&sect; 5 Rectification of a defect**
+4.3. Der Beginn und die Dauer der beauftragten Leistung richtet sich nach den Vereinbarungen in dem jeweiligen Einzelauftrag.
 
-(1) The Client has the right to the rectification of any defects of performance. The Contractor must first be given the opportunity to make amendments. If the Contractor fails to rectify these asserted defects within an appropriate period or should he refuse to rectify these defects, the Client is entitled to have the defects rectified by another provider at the cost of the Contractor or demand appropriate reduction of the remuneration.
+4.4. Die Dauer des Vertrages richtet sich grundsätzlich nach der vom Auftraggeber gewählten und in dem Einzelauftrag festgehaltenen Laufzeit der gebuchten Dienstleistung, ergänzt um gegebenenfalls nach Ende der Laufzeit von den Parteien noch zu erfüllenden Vertragspflichten.
 
-(2) Obvious defects, such as typing, arithmetical or transfer errors may be corrected by the Contractor at any time, even towards third parties and without the knowledge of the Client. The Contractor is permitted to correct other defects towards third parties with the permission of the Client. Permission is not required if legitimate interests of the Contractor take precedence over the interests of the Client.
+4.5. Die Vereinbarung endet spätestens mit der erfolgten Übermittlung sämtlicher Informationen an den Auftraggeber beziehungsweise mit der letzten Zahlung an S&P, je nach dem welches das spätere Ereignis ist.
 
-**&sect; 6 Liability**
+4.6. S&P steht ein ordentliches Kündigungsrecht mit einer Frist von 4 (vier) Wochen zum Monatsende zu für den Fall, dass der Auftraggeber nach Zugang der Änderungsmitteilung gem. Ziffer 1.3. innerhalb von vier Wochen widersprochen hat, im Übrigen ist eine ordentliche Kündigung der Parteien ausgeschlossen.
 
-The liability of the Contractor for damages caused by his person - not including damage caused by gross negligence and intent - is restricted to a maximum sum of three times the value of an average monthly invoice for a complete assessment month without Sales Tax. Any further liability on the part of the Contractor, in particular for subsequent damage, is expressly excluded. Any claim for damages on the part of the Client shall lapse within two years after the point at which the claim arose.
+4.7. Das gesetzliche Recht zur Kündigung dieser Vereinbarung aus wichtigem Grund mit einer kürzeren oder sogar ohne Frist bleibt unberührt. Wichtige Gründe sind beispielhaft, ohne darauf beschränkt zu sein:
 
-**&sect; 7 Retention of records**
+4.7.1. Wenn der Auftraggeber mit der Zahlung von fälligen Gebühren im Rückstand ist;
 
-(1) The Contractor shall keep the documents pertaining to the task commissioned within the scope of the agreement for a period of seven years from the end of the commission. This obligation shall lapse before the end of this period if the Contractor issues the Client with a written request to take receipt of these documents and the Client does not comply with this request within six months of receiving the request.
+4.7.2. Wenn die oder eine der Parteien schuldhaft gegen anwendbares Recht oder diese Allgemeinen Geschäftsbedingungen verstoßen, insbesondere bei Verstößen gegen den Datenschutz sowie gegen ausdrücklich geregelte Pflichten;
 
-(2) Documents as defined by this provision includes all texts which the Contractor has received from the Client or on his behalf, for the purpose of processing the tasks conferred upon him. This does not apply to correspondence between the Contractor and the Client and for documents which the Contractor has already received (in original or copy) before commissioning of services and to working papers drawn up for internal purposes.
+4.8. Die Kündigung muss schriftlich erfolgen (E-Mail genügt).
 
-(3) At the request of the Client (upon completion of the assignment at the latest) the Contractor is to return all documents to the Client within an appropriate period. The Contractor is permitted to make copies of the documents which he returns to the Client and retain these.
+4.9. Folgen der Kündigung:
 
-(4) The obligation of the Contractor to keep data carriers, lists and the contents of data carriers ends one month after the provision of the printed monthly evaluations or a month after the conclusion of this agreement.
+4.9.1. Ab der Wirksamkeit der Kündigung sind beide Parteien zur Erbringung der vertraglichen Leistungen nicht mehr verpflichtet, es sei denn, dies ist ausdrücklich abweichend geregelt oder ergibt sich aus der Natur der Leistung oder der Vereinbarung.
 
-**&sect; 8 Surrendering and the right of retention of working results and documents**
+4.9.2. Etwaige zum Zeitpunkt der Wirksamkeit der Kündigung von S&P bereits erbrachte und noch nicht vergütete Leistungen sind vom Auftraggeber entsprechend zu vergüten.
 
-The Contractor is entitled to refuse to surrender his working results and documents until he has received payment in full of his fees and expenses incurred. This provision does not apply if their retention constitutes a breach of good faith in the circumstances in question, in particular owing to disproportionality. The Client is entitled to retain an appropriate portion of the remuneration until defects asserted in a timely fashion have been rectified.
+4.9.3. Bis dahin gesammelte und dem Auftraggeber noch nicht zur Verfügung gestellte Informationen über die Besuche bei den Ärzten/Apothekern übermittelt S&P innerhalb von 6 (sechs) Wochen an den Auftraggeber, zusammen mit zu dem Zeitpunkt noch bei S&P vorhandenen Informationsunterlagen und Mustern, Ziffern 6.6. und 6.9. gelten entsprechend.
 
-**&sect; 9 Duration of and alterations to the agreement**
+4.10. Beiden Parteien ist bekannt, dass die Möglichkeit besteht, dass der Auftraggeber während der Laufzeit des Vertrages in Absprache mit der jeweils für das Arzneimittel zuständigen Bundesoberbehörde (BfArM oder Paul-Ehrlich-Institut) einen „Rote-Hand-Brief“ betreffend ein oder mehrerer im Einzelauftrag vorgesehener Produkte versendet und/oder veröffentlicht u.ä. Der Auftraggeber ist verpflichtet, S&P unverzüglich von dem „Rote-Hand-Brief“ in Kenntnis zu setzen. Wenn es sich dabei um die Mitteilung bislang unbekannter und/oder schwerer Nebenwirkungen handelt, so soll S&P die Leistungen für das entsprechende Produkt unverzüglich nach Kenntniserlangung einstellen; umfasst die Vereinbarung weitere, nicht von dem „Rote-Hand-Brief“ betroffene Produkte, so gilt die Vereinbarung dahin gehend unverändert weiter. S&P steht in dem Fall die vollständige Zahlung für die gesamte im Einzelauftrag vorgesehene Leistung betreffend das/die entsprechenden Produkte zu, ohne dass der Auftraggeber einen Anspruch auf die Erbringung der dafür vorgesehenen Gegenleistung durch S&P hat.
 
-The duration of the contractual relationship is subject to individual agreement. There are no oral or written supplementary agreements to this contract. Alterations and amendments to this agreement require the written form in order to be effective. This also applies to the change of the written form clause.
+## 5. Rechteeinräumung
 
-**Partial invalidity clause**
+S&P räumt dem Auftraggeber das einfache, übertragbare, zeitlich unbefristete und räumlich uneingeschränkte Nutzungsrecht an den Ergebnissen seiner Tätigkeit im Rahmen dieser Vereinbarung ein. Die Einräumung ist von der vereinbarten Vergütung abgedeckt, ein gesonderter Vergütungsanspruch steht S&P nicht zu.
 
-Should parts of or individual formulations contained within this text prove to be invalid, are no longer valid or are not completely valid with regards to the applicable legal regulations, the remaining parts of this document remain unaffected by these circumstances in terms of their content and validity.
+## 6. Pflichten von S&P
 
-**&sect; 11 Final clause**
+6.1. S&P beauftragt zur Durchführung der Dienstleistung nur HCR, die die notwendige Sachkenntnis gem. § 75 Abs. 2 AMG nachgewiesen haben.
 
-These terms and conditions are subject exclusively to German law. The court of venue for any disputes arising from this agreement is agreed as being the location of the registered headquarters of the Contractor. Should one or more clauses of this agreement be deemed to be ineffective in whole or in part, or should it be held to be incomplete, this fact has no effect on the validity of its remaining provisions. In such a case, the contracting parties commit themselves to replace an invalid provision with a valid undertaking which corresponds as closely as possible to the aim and purpose of the invalid provision. Should it later be discovered that the agreement is incomplete, the parties to the agreement undertake to draft any such missing provisions, which corresponds to the original intention and purpose of the agreement and which would have been drafted had the absence been recognized upon signature of the agreement.
+6.2. S&P verpflichtet die HCR, die Vorgaben des § 76 AMG einzuhalten, und dabei insbesondere die Vorgaben des § 47 Abs. 3, Abs. 4 AMG zu beachten.
+
+6.3. S&P stellt sicher, dass die vertraglich zwischen S&P und dem Auftraggeber vereinbarten Regelungen auch im Verhältnis zwischen S&P und den HCR gelten, soweit anwendbar; dabei ist es S&P bekannt, dass die angebotene Dienstleistung einschließlich der vertraglichen Vereinbarungen darüber der Kontrolle durch die für den Auftraggeber zuständigen Aufsichtsbehörde unterliegt.
+
+6.4. S&P verpflichtet die HCR, die von dem Auftraggeber zur Verfügung gestellten Muster kühl und trocken unter einwandfreien hygienischen Bedingungen in vor dem Zugriff durch Dritte geschützten abschließbaren Räumen zu lagern. Als Vorgabe für die Lagerung gilt ein Temperaturrahmen von 15° -25° Celsius, dabei gelten Unterschreitungen bis 8° und Überschreitungen bis 27°als akzeptabel.
+
+6.5. S&P verpflichtet die HCR, nur jeweils einen maximalen Tagesbedarf an Mustern im Auto mitzunehmen und diese in angemessenen Kühlboxen zu lagern sowie dafür Sorge zu tragen, dass etwaige am Ende eines Besuchstages nicht abgegebene Muster zurück in die für die Lagerung vorgesehenen Räume verbracht werden.
+
+6.6. Am Ende der Vertragslaufzeit nicht abgegebene Muster sowie nicht abgabefähige Muster (z.B. wegen Beschädigung) werden von S&P dokumentiert und an den Auftraggeber zurückgeschickt.
+
+6.7. S&P verpflichtet die HCR vertraglich, keine Arzneimittel zum Eigenverbrauch oder zur Weitergabe an Dritte außer den zu besuchenden Ärzten/Apothekern zu entnehmen.
+
+6.8. S&P übermittelt per E-Mail in dem vom Auftraggeber per Einzelauftrag beauftragten Zeitrhythmus und Umfang Informationen zu den von den HCR besuchten Ärzten/Apothekern an eine vom Auftraggeber benannten E-Mail-Adresse.
+
+6.9. S&P übermittelt spätestens 4 (vier) Wochen nach Ende der im Einzelauftrag angegebenen Vertragslaufzeit eine Gesamtübersicht mit allen Ergebnissen an den Auftraggeber, per E-Mail oder USB-Stick.
+
+6.10. Ferner bestätigt S&P dem Auftraggeber insbesondere, dass
+
+a) die ihm überlassenen Daten ausschließlich zur Erbringung der vertraglich vereinbarten Leistungen erhoben, verarbeitet oder genutzt werden,
+
+b) die bei S&P für die Erbringung der vereinbarten Leistungen eingesetzten Verfahren einer regelmäßigen Kontrolle unterliegen.
+
+## 7. Pflichten des Auftraggebers
+
+7.1. Der Auftraggeber sichert zu, dass es Zulassungsinhaber der von S&P gemäß Einzelauftrag vorzustellenden Produkte ist.
+
+7.2. Der Auftraggeber stellt S&P bzw. nach konkreter Absprache mit S&P den HCR direkt die vereinbarte Menge an Fachinformationsmaterialien sowie an Mustern mit entsprechendem Lieferschein zur Verfügung.
+
+7.3. Musterformulare für die Dokumentation der Abgabe werden durch den Auftraggeber zur Verfügung gestellt.
+
+7.4. Der Auftraggeber sichert zu, dass die an S&P übermittelten Informationen und Materialien dem neuesten Informationsstand entsprechen und die Muster mindestens über eine für die vereinbarte Laufzeit ausreichende Restlaufzeit für die Abgabe verfügen. Werden dem Auftraggeber während der Vertragslaufzeit Informationen bekannt, die einen Einfluss auf die von S&P an die Ärzte/Apotheker zu übermittelnden Informationen haben, so ist der Auftraggeber dafür verantwortlich, dies S&P unverzüglich mitzuteilen und gegebenenfalls geänderte Informationsmaterialien zur Verfügung zu stellen; etwaige Kosten trägt ausschließlich der Auftraggeber. Entsprechendes gilt für Muster. Sollten dadurch erneute Besuche bei bereits besuchten Ärzten/Apothekern notwendig werden, so ist dies vom Auftraggeber separat zu vergüten, die Einzelheiten regeln S&P und der Auftraggeber in einer separaten schriftlichen Vereinbarung.
+
+7.5. Der Auftraggeber ist verpflichtet, S&P unverzüglich schriftlich (E-Mail oder Fax genügen) zu informieren, sobald er von der für das Arzneimittel zuständigen Bundesoberbehörde (BfArM oder Paul-Ehrlich-Institut) informiert wurde, dass wegen eines Produktes, das von S&P im Rahmen dieser Vereinbarung zu betreuen ist, ein Rote-Hand-Brief wegen bislang unbekannter und/oder schwerer Nebenwirkungen verschickt werden wird (vgl. Ziffer 4.10.).
+
+7.6. Die vom Auftraggeber an S&P übermittelten Daten, insbesondere die Kontaktdaten der Ärzte/Apotheker, sind ausreichend gesichert.
+
+7.7. Der Auftraggeber ist mit den Anforderungen der Datenschutz-Grundverordnung (DS-GVO) und des Bundesdatenschutzgesetzes (BDSG) vertraut und wird eine datenschutzkonforme Verarbeitung aller von S&P übermittelten Daten fortlaufend sicherstellen und hierzu die innerbetriebliche Organisation so gestalten, dass diese den besonderen Anforderungen des Datenschutzes gerecht wird und insbesondere die in Artikel 32 EU DS-GVO aufgeführten Maßnahmen umgesetzt werden.
+
+7.8. Etwaige Änderungen des Ansprechpartners für pharmazeutisch-technische Fragen teilt der Auftraggeber S&P unverzüglich schriftlich mit (E-Mail genügt).
+
+## 8. Haftung, Freistellung
+
+8.1. S&P organisiert im Auftrag des Auftraggebers Besuche von HCR bei Ärzten/Apothekern im vom Auftraggeber gewünschten Umfang und berichtet über die Ergebnisse gemäß Einzelauftrag. Sofern der Auftraggeber und Ärzte/Apotheker Vereinbarungen miteinander treffen oder Verträge schließen, so ist S&P daran nicht beteiligt und haftet auch nicht für ein Zustandekommen oder den Inhalt derartiger Vereinbarungen und Verträge.
+
+8.2. Ausschließlich der Auftraggeber ist dafür verantwortlich, dass die S&P für die Besuche der HCR bei Ärzten/Apothekern von ihm zur Verfügung gestellten Informationen richtig und vollständig sind und die Muster über eine für die vereinbarte Laufzeit ausreichende Restlaufzeit für die Abgabe verfügen.
+
+8.3. Der Auftraggeber stellt S&P von sämtlichen Ansprüchen von Ärzten/Apothekern oder anderen Dritten frei, die diese im Zusammenhang mit den übermittelten Informationen, die S&P oder gegebenenfalls die HCR direkt vom Auftraggeber im Rahmen der Beauftragung erhalten hat (davon umfasst sind Muster, Informationen zu Produkten und die Adressdaten der Ärzte/Apotheker), gegen S&P oder die HCR geltend machen, eingeschlossen ist die Freistellung von anwaltlichen sowie gerichtlichen Kosten von S&P im Zusammenhang mit der Abwehr derartiger Ansprüche. Vorstehende Freistellung gilt auch für Ansprüche Dritter gegen S&P oder die HCR wegen schuldhaften Verstößen gegen gesetzliche Bestimmungen durch die Verwendung der vom Auftraggeber zur Verfügung gestellten Informationen und/oder Muster. Alle weitergehenden Rechte sowie Schadensersatzansprüche des Auftraggebers bleiben unberührt.
+
+## 9. Geheimhaltung
+
+Die Parteien verpflichten sich wechselseitig, den Inhalt dieser Vereinbarung vertraulich zu behandeln und Dritten, ausgenommen Steuerbehörden oder zur Berufsverschwiegenheit verpflichten Berufsangehörigen, nicht zu offenbaren. Die Parteien verpflichten sich zudem wechselseitig, gegenüber Dritten Stillschweigen über alle ihr bekannten Geschäfts- und Betriebsgeheimnisse zu bewahren. Als Dritte im Sinne dieser Vereinbarung gelten nicht Mitarbeiter der Parteien. Diese Geheimhaltungspflichten gelten nicht, soweit die offenbarende Partei aus gesetzlichen Gründen zur Offenbarung verpflichtet ist, oder die Offenbarung zur Erfüllung der vereinbarten Pflichten erforderlich ist. Die vorstehende Verpflichtung gilt über eine etwaige Beendigung dieser Vereinbarung hinaus.
+
+## 10. Schlussbestimmungen
+
+10.1. Nachträgliche Änderungen und Ergänzungen von Einzelaufträgen können nur in gegenseitigem Einvernehmen vorgenommen werden und bedürfen der Schriftform.
+
+10.2. Im Geschäftsverkehr mit Kaufleuten, juristischen Personen des öffentlichen Rechts oder bei öffentlich-rechtlichen Sondervermögen gilt als Erfüllungsort und Gerichtsstand Berlin, wenn nicht etwas anderes vereinbart wurde.
+
+10.3. Es gilt das Recht der Bundesrepublik Deutschland.
+
+_Stand: Januar 2020_
