@@ -1,0 +1,46 @@
+---
+layout: angebot_en
+permalink: /en/solutions/
+header_image_path: /assets/images/solution.jpg
+title: Solutions for healthcare businesses
+schlagworte:
+  - New study results
+  - Seasonal focus
+  - Indication variation
+  - Action
+  - New focus
+  - Product promotion
+  - Samples
+  - New launch
+  - USP
+  - Submission of promotional material
+---
+
+<div class="editable">
+  <h2>You are facing challenges?</h2>
+
+  <ul>
+    <li>Too small or not existing sales force</li>
+    <li>Too many products in the promotion</li>
+    <li>A temporary lack of employees</li>
+    <li>Internal or external structural changes</li>
+  </ul>
+
+  <p>... or do you want to launch a new product?</p>
+  <p>We can assist you!</p>
+</div>
+
+<h2>We pass on your message!</h2>
+
+<div class="row">
+  <div class="col-sm-6">
+    <div class="schlagworte">
+      {% for schlagwort in page.schlagworte %}
+        <div class="schlagwort">{{schlagwort}}</div>
+      {% endfor %}
+    </div>
+  </div>
+  <div class="col-sm-6">
+    <img src="/assets/images/megaphone.jpg" alt="Megaphon" class="img-responsive editable">
+  </div>
+</div>

@@ -1,0 +1,38 @@
+<header>
+  <nav class="navbar navbar-fixed-top">
+    <div class="nav-top">
+      <div class="container">
+
+        <!-- Mobile & Brand -->
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#main-nav" aria-expanded="false">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="logo editable" href="{{ "/" | prepend: site.baseurl }}">
+            <img src="{{ "/assets/images/sp-logo-letter.png" | prepend: site.baseurl }}" alt="FiRe Service & Consulting">
+          </a>
+        </div><!-- / navbar-header -->
+
+        <!-- Nav Items -->
+        <div class="collapse navbar-collapse" id="main-nav">
+          <p class="language-links navbar-text navbar-right"><a href="{{ "/" | prepend: site.baseurl }}">DE</a> | <a href="{{ "/en" | prepend: site.baseurl }}">EN</a></p>
+
+          <ul class="nav navbar-nav navbar-right text-right">
+            <li><a href="{{ "/en/#services" | prepend: site.baseurl }}" class="editable">Services</a></li>
+            <li><a href="{{ "/en/#about" | prepend: site.baseurl }}" class="editable">About S&P</a></li>
+            <li><a href="{{ "/en/#references" | prepend: site.baseurl }}" class="editable">References</a></li>
+            <li><a href="#contact" class="editable">Contact</a></li>
+          </ul>
+        </div><!-- / navbar-collapse -->
+
+      </div><!-- / container-fluid -->
+    </div>
+
+    <div class="nav-bottom"></div>
+  </nav>
+
+  <div class="header-image" style="background-image: url('{{ page.header_image_path}}');"></div>
+</header>

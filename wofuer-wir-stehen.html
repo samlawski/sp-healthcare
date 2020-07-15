@@ -1,0 +1,53 @@
+---
+layout: angebot
+permalink: /wofuer-wir-stehen/
+header_image_path: /assets/images/plant.jpg
+title: Wofür wir stehen
+vorteile:
+  - flexibel
+  - exklusiv
+  - transparent
+  - schnell
+  - Kompetent in allen Indikationen
+  - Rx oder OTC
+---
+
+<h2 class="editable">Wir unterstützen Sie im Vertrieb... Was benötigen Sie?</h2>
+
+<div class="row">
+  <div class="col-sm-6">
+    <div class="editable">
+      <h3>Außendienstunterstützung</h3>
+      <ul>
+        <li>... zusätzliche Besuche in Abstimmung mit dem eigenen Außendienst</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="col-sm-6">
+    <div class="editable">
+      <h3>Temporäres externes Vertriebsteam</h3>
+      <ul>
+        <li>... klassische Besprechung der Produkte</li>
+        <li>... Marktforschung und Mitbewerberumfeldanalyse</li>
+      </ul>
+      
+    </div>
+  </div>
+</div>
+
+<h2 class="editable">Ihre Vorteile</h2>
+
+<div class="row">
+  <div class="col-sm-7">
+    <div class="vorteile">
+      {% for vorteil in page.vorteile %}
+        <div class="vorteil">{{vorteil}}</div>
+      {% endfor %}
+    </div>
+  </div>
+  <div class="col-sm-5">
+    <img src="/assets/images/competence.jpg" alt="Megaphon" class="img-responsive editable">
+  </div>
+</div>
+

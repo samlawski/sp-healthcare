@@ -1,0 +1,42 @@
+# Site & Meta Details (Fallback)
+title: SP Healthcare Services
+title_short: SP Healthcare
+description: Tatkräftige Personalunterstützung von PTAs/Pharmareferenten/Naturwissenschaftlern bieten deutschlandweit die nötige Unterstützung für Sie.
+keywords: sales, promotion, healthcare, services
+logo: /assets/favicons/apple-touch-icon-152x152.png
+color: '#009996'
+
+lang: de_DE
+email: info@sp-healthcare.com
+url: "https://sp-healthcare.de" # the URL to the main site hosting all assets
+customurl: "https://sp-healthcare.de" # the URL the user sees in the browser. 
+
+# Build settings
+markdown: kramdown
+sass:
+  sass_dir: _sass
+  style: compressed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - siteicon.png
+  - README.md
+  - node_modules
+  - package.json
+  - package-lock.json
+  - .cache
+  - .gitignore
+  - .ruby-version
+  - .babelrc
+  - separate-seiten
+
+# Plugins
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-autoprefixer
+
+autoprefixer:
+  browsers:
+    - "last 2 versions"
+    - "IE > 9"
