@@ -13,44 +13,42 @@ vorteile:
 ---
 
 <h2 class="editable">
-  We support you in the disctribution... What do you need?
-</h2>
-
-<div class="row">
-  <div class="col-sm-6">
-    <div class="editable">
-      <h3>Additional Sales Representatives</h3>
-      <ul>
-        <li>... supporting visits in cooperation with your sales force</li>
-      </ul>
-    </div>
-  </div>
-
-  <div class="col-sm-6">
-    <div class="editable">
-      <h3>Temporary external sales team</h3>
-      <ul>
-        <li>... promotion of the products</li>
-        <li>... market research and competitive environment analysis</li>
-      </ul>
-    </div>
-  </div>
-</div>
-
-<h2 class="editable">
   Our Philosophy
 </h2>
 
 <div class="row">
-  <div class="col-sm-7">
+  <div class="col-sm-offset-2 col-sm-8">
     <div class="vorteile">
       {% for vorteil in page.vorteile %}
         <div class="vorteil">{{vorteil}}</div>
       {% endfor %}
     </div>
   </div>
-  <div class="col-sm-5">
-    <img src="/assets/images/competence.jpg" alt="Megaphon" class="img-responsive editable" />
-  </div>
 </div>
 
+<h2 class="editable">
+  We support you in the disctribution... What do you need?
+</h2>
+
+<div class="support_types">
+  <div class="row">
+    <div class="col-sm-6">
+      <div class="editable support_type__box">
+        <h4>Additional Sales Representatives</h4>
+        <ul>
+          <li>... supporting visits in cooperation with your sales force</li>
+        </ul>
+      </div>
+    </div>
+  
+    <div class="col-sm-6">
+      <div class="editable support_type__box">
+        <h4>Temporary external sales team</h4>
+        <ul>
+          <li>... promotion of the products</li>
+          <li>... market research and competitive environment analysis</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
