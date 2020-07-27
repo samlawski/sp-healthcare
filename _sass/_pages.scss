@@ -82,15 +82,30 @@
     flex-wrap: wrap;
 
     justify-content: center;
+
+    margin: 40px 0;
   }
   .vorteil {
     position: relative;
     margin: 10px 20px; 
 
-    padding: 10px 20px;
+    padding: 20px 40px;
 
     background-color: $color-primary-light;
     border-radius: .4em;
+  }
+
+  .support_types {
+    margin: 40px 0; 
+  }
+
+  .support_type__box {
+    background-color: $grey-color;
+    padding: 30px 20px;
+
+    h4 {
+      margin-bottom: 20px;
+    }
   }
 
   // PAGE: Projektablauf
