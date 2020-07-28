@@ -13,20 +13,6 @@ vorteile:
 ---
 
 <h2 class="editable">
-  Unsere Philosophie
-</h2>
-
-<div class="row">
-  <div class="col-sm-offset-2 col-sm-8">
-    <div class="vorteile">
-      {% for vorteil in page.vorteile %}
-        <div class="vorteil">{{vorteil}}</div>
-      {% endfor %}
-    </div>
-  </div>
-</div>
-
-<h2 class="editable">
   Wir unterst&uuml;tzen Sie im Vertrieb... Was ben&ouml;tigen Sie?
 </h2>
 
@@ -51,4 +37,27 @@ vorteile:
     </div>
   </div>
 </div>
+
+<div class="editable support__additional">
+  <p>Hier folgen noch weitere Angebote ...</p>
+  <ul>
+    <li>Beispielangebot</li>
+  </ul>
+</div>
+
+<h2 class="editable">
+  Unsere Philosophie
+</h2>
+
+<div class="row">
+  <div class="col-sm-offset-2 col-sm-8">
+    <div class="vorteile">
+      {% for vorteil in page.vorteile %}
+        <div class="vorteil">{{vorteil}}</div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
+
 
