@@ -3,6 +3,7 @@ layout: angebot_en
 permalink: /en/solutions/
 header_image_path: /assets/images/v2/pharma1.jpg
 title: Our Service
+bild_position_nach_schlagwort: 3
 schlagworte:
   - Product promotion
   - Samples
@@ -33,14 +34,14 @@ schlagworte:
 <h2>We pass on your message!</h2>
 
 <div class="row">
-  <div class="col-sm-6">
+  <div class="col-sm-8 col-sm-offset-2">
     <div class="schlagworte">
       {% for schlagwort in page.schlagworte %}
+        {% if forloop.index == page.bild_position_nach_schlagwort %}
+          <img src="/assets/images/megaphone.jpg" alt="Megaphon" class="editable hidden-xs hidden-sm" />
+        {% endif %}
         <div class="schlagwort">{{schlagwort}}</div>
       {% endfor %}
     </div>
-  </div>
-  <div class="col-sm-6">
-    <img src="/assets/images/megaphone.jpg" alt="Megaphon" class="img-responsive editable" />
   </div>
 </div>
