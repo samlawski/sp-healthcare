@@ -45,11 +45,11 @@
 
   // PAGE: Lösungen
   .schlagworte {
-    img {
-      width: 290px;
-      margin: 0;
-      float: right;
-    }
+    // img {
+    //   width: 290px;
+    //   margin: 0;
+    //   float: right;
+    // }
   }
   .schlagwort {
     position: relative;
@@ -60,7 +60,8 @@
     background-color: $color-primary-light;
     border-radius: .4em;
 
-    float: left;
+    // float: left;
+    float: right;
   }
 
   .schlagwort:after {
