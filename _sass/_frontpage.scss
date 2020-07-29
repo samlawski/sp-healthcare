@@ -1,4 +1,4 @@
-#angebote, #services {
+.index__angebote {
   margin-top: -100px;
 
   .angebot {
@@ -21,15 +21,14 @@
   }
 }
 
-#ueber, #about {
+.index__ueber {
   .portrait {
     box-shadow: $standard-shadow;
     border: 8px white solid;
   }
 }
 
-#referenzen,
-#references {
+.index__referenzen {
   .referenzen-wrapper {
     display: flex;
     flex-wrap: wrap;
