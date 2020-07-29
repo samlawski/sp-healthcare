@@ -99,19 +99,27 @@
 
   .support_types {
     margin: 40px 0; 
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
   }
 
   .support_type__box {
+    flex: 0 0 40%;
+    margin: 20px;
+
+    @media(max-width: 768px) {
+      flex: 1 0 100%;
+      margin: 10px 0;
+    }
+
     background-color: $grey-color;
     padding: 30px 20px;
 
     h4 {
       margin-bottom: 20px;
     }
-  }
-
-  .support__additional {
-    margin-bottom: 40px;
   }
 
   // PAGE: Projektablauf
