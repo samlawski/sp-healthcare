@@ -29,9 +29,9 @@ Telefon: 030 / 7974 7954
 
 Fax: 030/ 7974 5434
 
-Website: [http://www.fire-service-consulting.de/](http://www.fire-service-consulting.de/)
+Website: [https://www.sp-healthcare.de/](https://www.sp-healthcare.de/)
 
-E-Mail: [toussaint.fire-service@gmx.de](mailto:toussaint.fire-service@gmx.de)
+E-Mail: [ct@sp-healthcare.de](mailto:ct@sp-healthcare.de)
 
 **2) Begriffsbestimmungen**
 
