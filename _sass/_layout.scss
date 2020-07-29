@@ -17,6 +17,16 @@ a {
   background-color: $background-color;
 }
 
+// Fixing Scroll position: 
+html { scroll-behavior: smooth; }
+*[id]:before { 
+  display: block; 
+  content: " "; 
+  height: 90px;
+  margin-top: -90px; 
+  visibility: hidden; 
+}
+
 /* Header & Navigation */
 nav.navbar-fixed-top.navbar {
   max-width: $max-width;
