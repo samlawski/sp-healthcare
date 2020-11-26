@@ -5,175 +5,177 @@ header_image_path: /assets/images/business-1.jpg
 title: Privacy Agreement
 ---
 
-**Datenschutzerklärung**
+**Privacy Policy**
 
-Unsere Website können Sie grundsätzlich ohne die Angabe von personenbezogenen Daten nutzen. Im Einzelfall kann die Erhebung und Verarbeitung Ihrer personenbezogenen Daten jedoch erforderlich sein, um bestimmte Funktionen unserer Website nutzen zu können. Daneben erheben und verarbeiten wir zur Optimierung unserer Website und Dienste personenbezogene Daten, die wir nach den datenschutzrechtlichen Bestimmungen verarbeiten.
+Visitors to our website can use it without providing any personal data. In individual cases, it can become necessary to collect and process your personal data to enable the operation of particular functions of our website. We also gather and process personal data to optimize our website and services. We process this data in accordance with the specifications of data protection law.
 
-Wir nehmen den Schutz Ihrer personenbezogenen Daten sehr ernst und möchten Sie daher nachfolgend über Ihre Rechte sowie Art und Umfang der jeweiligen Datenerhebung informieren.
+We take the issue of protecting your personal data very seriously and would like to inform you as to your rights as well as the nature and scope of the data collection.
 
-**1) Verantwortliche Person und Datenschutzbeauftragter**
+**1) Controller and data protection officer**
 
-**Kontaktdaten des Verantwortlichen**
+**Contact information of the controller**
 
-Für die Verarbeitung verantwortliche Person im Sinne der Datenschutz-Grundverordnung (DS-GVO) und des Bundesdatenschutzgesetzes (BDSG):
+The person responsible for the processing of your personal data as defined by the General Data Protection Regulation (GDPR) and the *Bundesdatenschutzgesetz* (BDSG):
 
-FiRe Service &amp; Consulting
+S&P Healthcare Services
 
-Inhaberin: Cornelia Toussaint
+Proprietor: Cornelia Toussaint
 
-Bismarckstraße 63
+Bismarckstra&szlig;e 63
 
 12169 Berlin
 
-Telefon: 030 / 7974 7954
+Telephone: 030 / 7974 7954
 
 Fax: 030/ 7974 5434
 
-Website: [https://www.sp-healthcare.de/](https://www.sp-healthcare.de/)
+Website:&nbsp;[https://www.sp-healthcare.de/](https://www.sp-healthcare.de/)
 
-E-Mail: [ct@sp-healthcare.de](mailto:ct@sp-healthcare.de)
+e-mail:&nbsp;[ct@sp-healthcare.de](mailto:ct@sp-healthcare.de)
 
-**2) Begriffsbestimmungen**
+**2) Definition of terms**
 
-**Personenbezogene Daten**
+**Personal data**
 
-Personenbezogene Daten sind alle Informationen, die sich auf eine identifizierte oder identifizierbare natürliche Person (im Folgenden „betroffene Person&quot;) beziehen. Als identifizierbar wird eine natürliche Person angesehen, die direkt oder indirekt, insbesondere mittels Zuordnung zu einer Kennung wie einem Namen, zu einer Kennnummer, zu Standortdaten, zu einer Online-Kennung oder zu einem oder mehreren besonderen Merkmalen identifiziert werden kann, die Ausdruck der physischen, physiologischen, genetischen, psychischen, wirtschaftlichen, kulturellen oder sozialen Identität dieser natürlichen Person sind, identifiziert werden kann.
+‘Personal data’ means any information relating to an identified or identifiable natural person (‘data subject’). An identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.
 
-**Betroffene Person**
+**Data subject**
 
-Eine betroffene Person ist diese, dessen personenbezogene Daten vom Verantwortlichen verarbeitet werden.
+A data subject is the person whose personal data is processed by the controller.
 
-**Verarbeitung**
+**Processing**
 
-Die Verarbeitung ist jeder mit oder ohne Hilfe automatisierter Verfahren ausgeführte Vorgang oder jede solche Vorgangsreihe im Zusammenhang mit personenbezogenen Daten wie das Erheben, das Erfassen, die Organisation, das Ordnen, die Speicherung, die Anpassung oder Veränderung, das Auslesen, das Abfragen, die Verwendung, die Offenlegung durch Übermittlung, Verbreitung oder eine andere Form der Bereitstellung, den Abgleich oder die Verknüpfung, die Einschränkung, das Löschen oder die Vernichtung.
+‘Processing’ means any operation or set of operations which is performed on personal data or on sets of personal data, whether or not by automated means, such as collection, recording, organization, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, comparison or combination, restriction, erasure or destruction.
 
-**Pseudonymisierung**
+**Pseudonymization**
 
-Pseudonymisierung ist die Verarbeitung personenbezogener Daten in einer Weise, dass die personenbezogenen Daten ohne Hinzuziehung zusätzlicher Informationen nicht mehr einer spezifischen betroffenen Person zugeordnet werden können, sofern diese zusätzlichen Informationen gesondert aufbewahrt werden und technischen und organisatorischen Maßnahmen unterliegen, die gewährleisten, dass die personenbezogenen Daten nicht einer identifizierten oder identifizierbaren natürlichen Person zugewiesen werden.
+‘Pseudonymization’ means the processing of personal data in such a manner that the personal data can no longer be attributed to a specific data subject without the use of additional information, provided that such additional information is kept separately and is subject to technical and organizational measures to ensure that the personal data are not attributed to an identified or identifiable natural person.
 
-**Verantwortlicher**
+**Controller**
 
-Verantwortlicher ist die Person, die über Zwecke und Mittel der Verarbeitung von personenbezogenen Daten entscheidet und diese auch entsprechend durchführt.
+‘Controller’ means the natural or legal person, that determines the purposes and means of the processing of personal data and performs this task.
 
-**Auftragsverarbeiter**
+**Processor**
 
-Der Auftragsverarbeiter ist eine weitere natürliche oder juristische Person, Behörde, Einrichtung oder andere Stelle, die personenbezogene Daten im Auftrag des Verantwortlichen verarbeitet.
+The ‘processor’ is a further a natural or legal person, public authority, agency or other body which processes personal data on behalf of the controller.
 
-**Empfänger**
+**Recipient**
 
-Der Empfänger ist eine natürliche oder juristische Person, Behörde, Einrichtung oder andere Stelle, denen personenbezogene Daten offengelegt werden.
+The ‘recipient’ is a natural or legal person, public authority, agency or other body to which personal data is disclosed.
 
-**Einwilligung**
+**Consent**
 
-Eine Einwilligung der betroffenen Person ist jede freiwillig für den bestimmten Fall, in informierter Weise und unmissverständlich abgegebene Willensbekundung in Form einer Erklärung oder einer sonstigen eindeutigen bestätigenden Handlung, mit der die betroffene Person zu verstehen gibt, dass sie mit der Verarbeitung der sie betreffenden personenbezogenen Daten einverstanden ist.
+Consent from the data subject is any freely given specific, informed and unambiguous indication from the data subject of their wishes through which he or she, by a statement or by a clear affirmative action, signifies agreement to the processing of their personal data.
 
-**Verletzung des Schutzes personenbezogener Daten**
+**Personal data breach**
 
-Eine Verletzung des Schutzes personenbezogener Daten ist eine Verletzung der Sicherheit, die zur Vernichtung, zum Verlust oder zur Veränderung, ob unbeabsichtigt oder unrechtmäßig, oder zur unbefugten Offenlegung von beziehungsweise zum unbefugten Zugang zu personenbezogenen Daten führt, die übermittelt, gespeichert oder auf sonstige Weise verarbeitet wurden.
+A breach of personal data security is a security breach leading to the accidental or unlawful destruction, loss, alteration, unauthorised disclosure of, or access to, personal data transmitted, stored or otherwise processed.
 
-**Aufsichtsbehörde**
+**Supervisory authority**
 
-Die Aufsichtsbehörde ist eine von einem Mitgliedstaat gemäß Art. 51 DS-GVO eingerichtete unabhängige staatliche Stelle, die für die Überwachung der Einhaltung der datenschutzrechtlichen Gesetze und Verordnungen zuständig ist.
+The supervisory authority is an independent public authority established by a Member State in accordance with art. 51 GDPR with responsibility for monitoring compliance with the data privacy laws and regulations.
 
-**3) Information über die Verarbeitung personenbezogener Daten**
+**3) Information about the processing of personal data**
 
-Wir verarbeiten Ihre personenbezogenen Daten durch verschiedene technische Möglichkeiten und ggf. auch unter der Zunahme weiterer Dienstleister. Über die konkreten Details der Verarbeitung möchten wir Sie in den nachfolgenden Punkten informieren.
+We process your personal data using a range of technical means and can commission further service providers to do so. The following points provide the specific details of this processing.
 
-**Besuch unserer Website**
+**Visiting our website**
 
-Beim Besuch unserer Website, also wenn Sie sich nicht registrieren oder uns anderweitig Informationen übermitteln, erheben wir nur die personenbezogenen Daten, die Ihr Browser an unseren Server übermittelt. Wenn Sie unsere Website betrachten möchten, erheben wir die folgenden Daten, die für uns technisch erforderlich sind, um Ihnen unsere Website anzuzeigen und die Stabilität und Sicherheit zu gewährleisten (Rechtsgrundlage ist Art. 6 Abs. 1 S. 1 lit. f DS-GVO, § 15 Telemediengesetz (TMG)):
+When visiting our website, even without registration or otherwise communicating information, we gather only the personal data which your browser communicates to our server. If you wish to view our website, we gather the following data required for the display of our website and to ensure its stability and security (the legal basis for this is art. 6 section 1 p. 1 letter f GDPR, &sect; 15 *Telemediengesetz* (TMG)):
 
-–        IP-Adresse und Service-Provider
+– IP address and service provider
 
-–        Datum und Uhrzeit der Anfrage
+– Date and time at which the website was accessed
 
-–        Inhalt der Anforderung (konkrete Seite)
+– The request (specific page)
 
-–        Zugriffsstatus/HTTP-Statuscode
+– Access status / HTTP status code
 
-–        jeweils übertragene Datenmenge
+– Transferred data volume
 
-–        Website, von der die Anforderung kommt
+– The website from which the request was made
 
-–        Browser inkl. Sprache und Softwareversion
+– The browser inc. language and software version
 
-–        Betriebssystem und dessen Oberfläche
+– Operating system and its surface
 
-**Einsatz von Cookies**
+**The use of cookies**
 
-**(1)** Zusätzlich zu den zuvor genannten Daten werden bei Ihrer Nutzung unserer Website Cookies auf Ihrem Rechner gespeichert. Bei Cookies handelt es sich um kleine Textdateien, die auf Ihrer Festplatte dem von Ihnen verwendeten Browser zugeordnet gespeichert werden und durch welche der Stelle, die den Cookie setzt (hier durch uns), bestimmte Informationen zufließen. Cookies können keine Programme ausführen oder Viren auf Ihren Computer übertragen. Sie dienen dazu, das Internetangebot insgesamt nutzerfreundlicher und effektiver zu gestalten. Rechtsgrundlage für die Verwendung von Cookies ist Art. 6 Abs. 1 S. 1 lit. f DS-GVO.
+**(1)**&nbsp;In addition to the date outlined above, cookies will be stored on your computer during the use of our website. Cookies are small text files assigned to your browser and stored on your hard drive and which cause certain information to be transferred to the body that sets the cookie (in this case this body is us). Cookies cannot be used to run programs or deliver viruses to your computer. They serve to make the internet more user-friendly and effective in use. We use cookies on the basis of art. 6 section 1 p. 1 letter f GDPR.
 
-**(2)** Diese Website nutzt folgende Arten von Cookies, deren Umfang und Funktionsweise im Folgenden erläutert werden:
+**(2)**&nbsp;This website uses the following types of cookies, the scope and mode of operation of which are outlined here:
 
-- Transiente Cookies
-- Persistente Cookies
+* Transient cookies
+* Persistent cookies
 
-**(3)** Transiente Cookies werden automatisiert gelöscht, wenn Sie den Browser schließen. Dazu zählen insbesondere die Session-Cookies. Diese speichern eine sogenannte Session-ID, mit welcher sich verschiedene Anfragen Ihres Browsers der gemeinsamen Sitzung zuordnen lassen. Dadurch kann Ihr Rechner wiedererkannt werden, wenn Sie auf unsere Website zurückkehren. Die Session-Cookies werden gelöscht, wenn Sie sich ausloggen oder den Browser schließen.
+**(3)**&nbsp;Transient cookies are deleted automatically, once you have closed your browser. In particular, this includes session cookies. Session cookies store a so-called session ID by which different requests from your browser can be assigned to a specific session. This enables us to recognize your computer when you return to our website. The session cookies are deleted when you log out or close the browser.
 
-**(4)** Persistente Cookies werden automatisiert nach einer vorgegebenen Dauer gelöscht, die sich je nach Cookie unterscheiden kann. Sie können die Cookies in den Sicherheitseinstellungen Ihres Browsers jederzeit löschen.
+**(4)**&nbsp;Persistent cookies are deleted automatically after expiry of a pre-defined period of time which can vary depending on the type of cookie used. You can delete the cookies in the security settings of your browser at any time.
 
-**(5)** Sie können Ihre Browser-Einstellung entsprechend Ihren Wünschen konfigurieren und zudem die Annahme von Third-Party-Cookies oder allen Cookies ablehnen. Wir weisen Sie darauf hin, dass Sie dann jedoch eventuell nicht alle Funktionen dieser Website nutzen können.
+**(5)**&nbsp;You can configure your browser settings according to your wishes and can also refuse acceptance of third-party cookies or all cookies. Please note, that should you do so, you may not be able to use all the functions of this website.
 
-**Nutzung des Kontaktformulars**
+**Using the contact form**
 
-(1)        Bei Ihrer Kontaktaufnahme mit uns über das Kontaktformular auf unserer Website werden zur Beantwortung Ihrer Anfrage die von Ihnen eingegebenen Daten (Ihre E-Mail-Adresse und regelmäßig Ihr Name, Ihre Telefonnummer und die weiteren von Ihnen angegebenen Daten) im Zeitpunkt der Absendung von uns gespeichert, um Ihr Anliegen zu bearbeiten.
+**(1)** When you contact us via the contact form on our website, we will save the data that you disclose to us (your e-mail address and usually your name, telephone number and further data which you enter) at the point at which it was sent in order to process your request.
 
-(2)        Alternativ zum Kontaktformular können Sie auch über die auf unserer Website bereitgestellte E-Mail-Adresse, aufzufinden im Impressum, mit uns Kontakt aufnehmen.
+**(2)** Alternatively, you can use the e-mail address which we display on our website (on the site notice) in the site notice to contact us.
 
-(3)        Der Verarbeitung Ihrer personenbezogenen Daten können Sie jederzeit durch das Senden einer E-Mail an [toussaint.fire-service@gmx.de](mailto:toussaint.fire-service@gmx.de)widersprechen oder den Widerspruch der Verarbeitung Ihrer personenbezogenen Daten gegenüber den in Abschnitt 1. aufgeführten Person(en) erklären. Treten Sie direkt per E-Mail mit uns in Kontakt, so können Sie der Verarbeitung Ihrer personenbezogenen Daten jederzeit auf denselben Wegen widersprechen.
+**(3)** You can object to the processing of your personal data at any time by sending an e-mail to&nbsp;[toussaint.fire-service@gmx.de](mailto:toussaint.fire-service@gmx.de)or declare your objection to the processing of your personal data to the person(s) listed in section 1. If you contact us directly by e-mail, you can object to the processing of your personal data at any time by the same means.
 
-(4)        Die in diesem Zusammenhang anfallenden Daten löschen wir, nachdem die Speicherung nicht mehr erforderlich ist, oder schränken die Verarbeitung ein, falls gesetzliche Aufbewahrungspflichten bestehen. Rechtsgrundlage ist Art. 6 Abs. 1 S. 1 lit. f DS-GVO.
+**(4)** We will delete the data arising in this connection after storage is no longer required or restrict processing if there are legal storage obligations. The legal basis for this is provided by Art. 6 section 1 p. 1 letter f GDPR.
 
-(5)        Zielt Ihre Kontaktaufnahme auf den Abschluss eines Vertrages ab, so ist zusätzliche Rechtsgrundlage für die Verarbeitung Ihrer personenbezogenen Daten Art. 6 Abs. 1 S. 1 lit. b DS-GVO.
+**(5)** If the purpose of your contact is to conclude a contract, the additional legal basis for the processing of your personal data is Art. 6 section 1 p. 1 letter b GDPR.
 
 **Google Analytics**
 
-**(1)** Diese Website benutzt Google Analytics, einen Webanalysedienst der Google Inc. („Google&quot;). Google Analytics verwendet sog. „Cookies&quot;, Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Website durch Sie ermöglichen (siehe oben Abschnitt 3., „Einsatz von Cookies&quot;). Die durch das Cookie erzeugten Informationen über Ihre Benutzung dieser Website werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert. Im Falle der Aktivierung der IP-Anonymisierung auf dieser Website, wird Ihre IP-Adresse von Google jedoch innerhalb von Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zuvor gekürzt. Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in den USA übertragen und dort gekürzt. Im Auftrag des Betreibers dieser Website wird Google diese Informationen benutzen, um Ihre Nutzung der Website auszuwerten, um Reports über die Website-Aktivitäten zusammenzustellen und um weitere mit der Website-Nutzung und der Internetnutzung verbundene Dienstleistungen gegenüber dem Website-Betreiber zu erbringen.
+**(1)**&nbsp;This website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses “cookies”, which are text files stored on your computer that enable the website to analyse how users use the site (see above, section 3 “The use of cookies”). The information generated by the cookie about your use of the website is usually transmitted to and stored by Google on servers in the United States. Should IP-anonymization be activated on this website, Google will first truncate your IP address within the area of Member States of the European Union or other parties to the Agreement on the European Economic Area. Only in exceptional cases will the whole IP address first be transferred to a Google server in the USA and truncated there. Google will use this information on behalf of the operator of this website for the purpose of evaluating your use of the website, to compile reports on website activity for website operators and to provide them with other services relating to website activity and internet usage.
 
-**(2)** Die im Rahmen von Google Analytics von Ihrem Browser übermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengeführt.
+**(2)**&nbsp;The IP-address that your browser conveys within the scope of Google Analytics will not be associated with any other data held by Google.
 
-**(3)** Sie können die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browsersoftware verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website vollumfänglich werden nutzen können. Sie können darüber hinaus die Erfassung der durch das Cookie erzeugten und auf Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem Sie über den folgenden Link das Browser-Plug-in zur Deaktivierung von Analytics herunterladen und installieren: [http://tools.google.com/dlpage/gaoptout?hl=de](http://tools.google.com/dlpage/gaoptout?hl=de).
+**(3)**&nbsp;You can prevent the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. You can also prevent data collection and processing by Google of the data generated by the cookie and related to the use of the website (inc. IP address) by downloading and installing the browser plugin available under this link:&nbsp;[http://tools.google.com/dlpage/gaoptout?hl=de](http://tools.google.com/dlpage/gaoptout?hl=de).
 
-**(4)** Diese Website verwendet Google Analytics mit der Erweiterung „\_anonymizeIp()&quot;. Dadurch werden IP-Adressen gekürzt weiterverarbeitet, eine Personenbeziehbarkeit kann damit ausgeschlossen werden. Soweit den über Sie erhobenen Daten ein Personenbezug zukommt, wird dieser also sofort ausgeschlossen und die personenbezogenen Daten damit umgehend gelöscht.
+**(4)**&nbsp;This website uses Google Analytics with the extension “\_anonymizeIp()”. This means that IP addresses are processed in a truncated fashion; this prevents the identification of any individual person. If the data that is collected about you permits conclusions to be drawn about you as a person, immediate steps will be taken to prevent this and the relevant personal data will be erased immediately.
 
-**(5)** Wir nutzen Google Analytics, um die Nutzung unserer Website analysieren und regelmäßig verbessern zu können. Über die gewonnenen Statistiken können wir unser Angebot verbessern und für Sie als Nutzer interessanter ausgestalten. Für die Ausnahmefälle, in denen personenbezogene Daten in die USA übertragen werden, hat sich Google dem EU-US Privacy Shield unterworfen, [https://www.privacyshield.gov/EU-US-Framework](https://www.privacyshield.gov/EU-US-Framework). Rechtsgrundlage für die Nutzung von Google Analytics ist Art. 6 Abs. 1 S. 1 lit. f DS-GVO.
+**(5)**&nbsp;We use Google Analytics to analyse use of our website and to improve it at regular intervals. The statistical data we receive in this way helps us to improve our website and to make it more interesting for you as a user. For the exceptional cases in which personal data is transferred to the United States, Google has subjected itself to the EU-US Privacy Shield,&nbsp;[https://www.privacyshield.gov/EU-US-Framework](https://www.privacyshield.gov/EU-US-Framework). We use Google Analytics on the basis of art. 6 section 1 p. 1 letter. f GDPR.
 
-**(6)** Informationen des Anbieters: Google Dublin, Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Ireland, Fax: +353 (1) 436 1001. Nutzerbedingungen: [http://www.google.com/analytics/terms/de.html](http://www.google.com/analytics/terms/de.html), Übersicht zum Datenschutz: [http://www.google.com/intl/de/analytics/learn/privacy.html](http://www.google.com/intl/de/analytics/learn/privacy.html), sowie die Datenschutzerklärung: [http://www.google.de/intl/de/policies/privacy](http://www.google.de/intl/de/policies/privacy).
+**(6)**&nbsp;Information about the provider: Google Dublin, Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Ireland, Fax: +353 (1) 436 1001. Conditions of use:&nbsp;[http://www.google.com/analytics/terms/de.html](http://www.google.com/analytics/terms/de.html), Overview about data protection:&nbsp;[http://www.google.com/intl/de/analytics/learn/privacy.html](http://www.google.com/intl/de/analytics/learn/privacy.html), The privacy policy:&nbsp;[http://www.google.de/intl/de/policies/privacy](http://www.google.de/intl/de/policies/privacy).
 
-**4) Ihre Rechte**
+**4) Your rights**
 
-Sie haben uns gegenüber folgende Rechte hinsichtlich der der Verarbeitung der Sie betreffenden personenbezogenen Daten, die Sie jederzeit formlos gegenüber dem oben in 2. aufgeführten Ansprechpartner geltend machen können.
+You hold the following rights pertaining to the processing of your personal data, which you can assert at any time informally against the contact person listed in 2. above.
 
-**Recht auf Auskunft**
+**The right to be informed**
 
-Auf Anfrage erteilen wir Ihnen Auskunft darüber, welche personenbezogenen Daten wir von Ihnen zu welchem Zweck, auf welche Dauer, aus welcher Quelle und auf welcher Rechtsgrundlage gespeichert haben und ob wir diese Dritten gegenüber offengelegt haben.
+We are happy to provide details upon request regarding the personal data we have stored and the purpose for which we have done this, the source from which we have gathered it, the source from which we have gathered it, the legal basis for this action and whether we have made this data available to third parties.
 
-**Recht auf Berichtigung**
+**The right to rectification**
 
-Sollte sich herausstellen, dass die uns von Ihnen vorliegenden personenbezogenen Daten unrichtig oder unvollständig sind, so werden wir diese auf Verlangen unverzüglich korrigieren oder ergänzen.
+If it turns out that the personal data you provide us with is incorrect or incomplete, we will correct or supplement it immediately upon request.
 
-**Recht auf Löschung (Recht auf Vergessenwerden)**
+**The right to erasure (‘right to be forgotten’)**
 
-Sie haben das Recht auf eine unverzügliche Löschung ihrer personenbezogenen Daten, sofern hierfür keine gesetzliche Aufbewahrungspflicht besteht.
+You have the right to immediate erasure of your personal data, unless it is subject to a legally-mandated retention requirement.
 
-**Recht auf Einschränkung der Verarbeitung**
+**The right to restriction of processing**
 
-Sie können von uns eine Einschränkung der Verarbeitung Ihrer personenbezogenen Daten verlangen.
+You can require that we are subject to restrictions on the processing of your personal data.
 
-**Recht auf Widerspruch gegen die Verarbeitung**
+**The right to object to processing**
 
-_Sie können der Verarbeitung Ihrer personenbezogenen Daten jederzeit widersprechen. Dies gilt insbesondere, wenn die Rechtsgrundlage der Verarbeitung Art. 6 Abs. 1 S. 1 lit. f DS-GVO ist._
+*You can object to the processing of your personal data at any time. This applies especially if the legal basis of the processing is Art. 6 section 1 p. 1 letter f GDPR.*
 
-**Recht auf Datenübertragbarkeit**
+**The right to data portability**
 
-Sie haben das Recht, die uns von Ihnen vorliegenden personenbezogenen Daten in einem universell lesbaren Format zu erhalten.
+You have the right to receive the personal data which we hold pertaining to you in a universally readable format.
 
-**Beschwerderecht bei einer Aufsichtsbehörde**
+**Right to lodge a complaint with a supervisory authority**
 
-Sie haben zudem das Recht, sich bei der zuständigen Datenschutz-Aufsichtsbehörde über die Verarbeitung Ihrer personenbezogenen Daten durch uns zu beschweren. Zuständig ist die Datenschutzbehörde des Bundeslandes, in dem wir unseren Sitz haben. Näheres hierzu finden Sie unter [https://www.bfdi.bund.de/DE/Infothek/Anschriften\_Links/anschriften\_links-node.html](https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html).
+You have the right to lodge a complaint about us regarding the processing of your personal data with the responsible data protection supervisory authority. Responsibility lies with the data protection authority in the federal state of Germany in which we are headquartered. Further information is available here&nbsp;[https://www.bfdi.bund.de/DE/Infothek/Anschriften\_Links/anschriften\_links-node.html](https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html).
 
-Wir erlauben uns höflich darauf hinzuweisen, dass die Ausübung Ihrer Rechte im Einzelfall gegebenenfalls an das Vorliegen bestimmter Voraussetzungen geknüpft sein kann.
+We should like to point out that the exercise of your rights in individual cases can be subject to the existence of certain prerequisites.
 
-**Gewährleistung der Datensicherheit und des Datenschutzes**
+**Guarantee of data security and data protection**
 
-Um den Schutz und die Sicherheit Ihrer personenbezogenen zu gewährleisten, führen wir eine Vielzahl von technischen und organisatorischen Sicherheitsmaßnahmen durch, deren Wirksamkeit wir regelmäßig überprüfen lassen.
+We implement a range of technical and organizational security measures (which we subject to regular checks) to ensure the protection and safety of your personal data.
+
+&nbsp;
