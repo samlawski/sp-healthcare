@@ -7,7 +7,7 @@ title: Imprint
 
 **S&P Healthcare Services**
 
-owner: Cornelia Toussaint
+Owner: Cornelia Toussaint
 
 Bismarckstra&szlig;e 63
 
