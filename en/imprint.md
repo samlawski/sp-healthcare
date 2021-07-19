@@ -5,7 +5,7 @@ header_image_path: /assets/images/business-1.jpg
 title: Imprint
 ---
 
-**FiRe Service & Consulting**
+**S&P Healthcare Services**
 
 owner: Cornelia Toussaint
 
