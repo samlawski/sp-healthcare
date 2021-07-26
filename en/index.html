@@ -3,6 +3,11 @@ title: Sales und Promotion für Healthcare
 description: Personal support for healthcare business across Germany.
 layout: frontpage_en
 header_image_path: /assets/images/v3/bild1cut.jpg
+referenzen:
+  - name: "Riemser\t-\tOncology (Nausea)"
+  - name: Klinge - Otolaryngology (Vertigo)
+  - name: "Bioprojet\t-\tAllergy (Anaphylactic shock) / Pediatric Gastroenterology (Acute diarrhea)"
+  - name: "Dr. Kade\t-\tPain treatment (Lumbago)"
 ---
 
 <div class="container-fluid space-after index__angebote">
@@ -120,7 +125,7 @@ header_image_path: /assets/images/v3/bild1cut.jpg
       <div class="col-sm-offset-2 col-sm-8">
 
         <div class="referenzen-wrapper">
-          {% for firma in site.data.referenzen %}
+          {% for firma in page.referenzen %}
             <section class="referenz">
               <span>{{firma.name}}</span>
             </section>
