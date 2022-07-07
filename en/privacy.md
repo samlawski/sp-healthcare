@@ -21,13 +21,13 @@ S&P Healthcare Services
 
 Proprietor: Cornelia Toussaint
 
-Bismarckstra&szlig;e 63
+Dohnaer Stra&szlig;e 73
 
-12169 Berlin
+01219 Dresden
 
-Telephone: 030 / 7974 7954
+Tel: 0351 840 359 96
 
-Fax: 030/ 7974 5434
+Fax: 0351 840 324 30
 
 Website:&nbsp;[https://www.sp-healthcare.de/](https://www.sp-healthcare.de/)
 
