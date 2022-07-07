@@ -9,13 +9,13 @@ title: Impressum
 
 Inhaberin: Cornelia Toussaint
 
-Bismarckstra&szlig;e 63
+Dohnaer Stra&szlig;e 73
 
-12169 Berlin
+01219 Dresden
 
-Tel: 030 / 7974 7954
+Tel: 0351 840 359 96
 
-Fax: 030/ 7974 5434
+Fax: 0351 840 324 30
 
 E-Mail: ​ct@sp-healthcare.de​​
 
