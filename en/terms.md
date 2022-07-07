@@ -7,7 +7,7 @@ title: Terms of Service
 
 ## 1\. Scope of the provisions
 
-1\.1 These general terms and conditions cover the use of the services provided by S&P HEALTHCARE SERVICES, Cornelia Toussaint, Bismarckstra&szlig;e 63, 12169 Berlin-Steglitz (subsequently referred to as: “S&P” or “contractor”). They govern the conclusion of a contract between the company, which makes use of the services offered (“client”) and S&P and the execution of contracts agreed; they also inform both parties of their respective mutual rights and obligations under the contract.
+1\.1 These general terms and conditions cover the use of the services provided by S&P HEALTHCARE SERVICES, Cornelia Toussaint, Dohnaer Stra&szlig;e 73, 01219 Dresden, (subsequently referred to as: “S&P” or “contractor”). They govern the conclusion of a contract between the company, which makes use of the services offered (“client”) and S&P and the execution of contracts agreed; they also inform both parties of their respective mutual rights and obligations under the contract.
 
 1\.2 The business relationship between S&P and the client is regulated exclusively by these General terms and conditions together with the data privacy regulations and the terms agreed by S&P and the client for each “individual order”. In cases of doubt, these individual terms have priority over the General terms and conditions. S&P does not accept any deviating conditions imposed by the client, unless they have given their express (written) agreement to them.
 
