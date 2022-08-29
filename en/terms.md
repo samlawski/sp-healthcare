@@ -4,7 +4,6 @@ permalink: /en/terms/
 header_image_path: /assets/images/business-1.jpg
 title: Terms of Service
 ---
-
 ## 1\. Scope of the provisions
 
 1\.1 These general terms and conditions cover the use of the services provided by S&P HEALTHCARE SERVICES, Cornelia Toussaint, Dohnaer Stra&szlig;e 73, 01219 Dresden, (subsequently referred to as: “S&P” or “contractor”). They govern the conclusion of a contract between the company, which makes use of the services offered (“client”) and S&P and the execution of contracts agreed; they also inform both parties of their respective mutual rights and obligations under the contract.
@@ -127,7 +126,7 @@ The parties mutually commit themselves to maintain complete secrecy regarding th
 
 10\.3. The law of the Federal Republic of Germany applies.
 
-*Last updated: January 2020*
+*Last updated: Juli 2022*
 
 &nbsp;
 
