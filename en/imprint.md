@@ -4,7 +4,6 @@ permalink: /en/imprint/
 header_image_path: /assets/images/business-1.jpg
 title: Imprint
 ---
-
 **S&P Healthcare Services**
 
 Owner: Cornelia Toussaint
@@ -17,7 +16,7 @@ Tel: 0351 840 359 96
 
 Fax: 0351 840 324 30
 
-E-Mail: ​ct@sp-healthcare.de​​
+E-Mail: ​[ct@sp-healthcare.de​​](Mail to: ct@sp-healthcare.de)
 
 Steuernummer: 20/562/00168
 
