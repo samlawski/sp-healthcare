@@ -4,7 +4,6 @@ permalink: /geschaeftsbedingungen/
 header_image_path: /assets/images/business-1.jpg
 title: Allgemeine Geschäftsbedingungen
 ---
-
 ## 1\. Geltungsbereich
 
 1\.1 Diese Allgemeinen Geschäftsbedingungen („AGB“) gelten für die Nutzung der durch die S&P HEALTHCARE SERVICES, Cornelia Toussaint, Dohnaer Stra&szlig;e 73, 01219 Dresden (nachfolgend: „S&P“ oder „Auftragnehmer“) angebotenen Dienstleistungen. Sie regeln das Zustandekommen des Vertrages zwischen den Unternehmen, die die angebotenen Leistungen in Anspruch nehmen („Auftraggeber“) und S&P, die Abwicklung von geschlossenen Verträgen und die wechselseitigen Rechte und Pflichten.
@@ -127,4 +126,4 @@ Die Parteien verpflichten sich wechselseitig, den Inhalt dieser Vereinbarung ver
 
 10\.3. Es gilt das Recht der Bundesrepublik Deutschland.
 
-*Stand: Januar 2020*
+*Stand: Juli 2022*
