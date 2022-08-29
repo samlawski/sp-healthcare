@@ -16,7 +16,7 @@ Tel: 0351 840 359 96
 
 Fax: 0351 840 324 30
 
-E-Mail: ​[ct@sp-healthcare.de​​](ct@sp-healthcare.de)
+E-Mail:&nbsp; [ct@sp-healthcare.de](mailto:ct@sp-healthcare.de)
 
 Steuernummer: 20/562/00168
 
