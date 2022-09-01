@@ -126,7 +126,7 @@ The parties mutually commit themselves to maintain complete secrecy regarding th
 
 10\.3. The law of the Federal Republic of Germany applies.
 
-*Last updated: Juli 2022*
+*Last update: Juli 2022*
 
 &nbsp;
 
